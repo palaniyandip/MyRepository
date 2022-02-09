@@ -1,0 +1,700 @@
+#EXTM3U
+#EXTINF:0,K TV
+#EXTGRP:Tamil Cable TV
+http://95.111.252.44/manoyuva/iptv.php?id=48012&amp;e=.m3u8
+#EXTINF:0,News 7
+#EXTGRP:Tamil Cable TV
+http://versewsa.pc.cdn.bitgravity.com/versewsa/live/tamilnews7.smil/chunklist_b1000000.m3u8
+#EXTINF:0,Aus Tamil TV
+#EXTGRP:Tamil Cable TV
+https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8
+#EXTINF:0,Boss TV
+#EXTGRP:Tamil Cable TV
+http://bosstv-notv.chennaistream.net/bosstv/bosstvlive/playlist.m3u8
+#EXTINF:0,Nila TV
+#EXTGRP:Tamil Cable TV
+http://account5.livebox.co.in/nilatvhls/broadcast.m3u8
+#EXTINF:0,ACN Amma Channel
+#EXTGRP:Tamil Cable TV
+http://ammacable.com:1935/acn/ammachannel/playlist.m3u8
+#EXTINF:0,Arasantv
+#EXTGRP:Tamil Cable TV
+http://ammacable.com:1935/acn/arasantv/playlist.m3u8
+#EXTINF:0,Thirumalai tv
+#EXTGRP:Tamil Cable TV
+http://media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8
+#EXTINF:0,SR TV
+#EXTGRP:Tamil Cable TV
+http://210.18.155.135:1935/live/srtv/chunklist_w29481395.m3u8
+#EXTINF:0,Palar TV
+#EXTGRP:Tamil Cable TV
+http://account13.livebox.co.in/palartvhls/live.m3u8
+#EXTINF:0,Rasi Network
+#EXTGRP:Tamil Cable TV
+http://singamcloud.in:8080/rasinetwork/rasitv/playlist.m3u8
+#EXTINF:0,ACN Music
+#EXTGRP:Tamil Cable TV
+http://ammacable.com:1935/acn/acnmusic/playlist.m3u8
+#EXTINF:0,Three Tamil
+#EXTGRP:Tamil Cable TV
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:0,JCV TV
+#EXTGRP:Tamil Cable TV
+http://account11.livebox.co.in/jcvtvhls/live.m3u8
+#EXTINF:0,Kavin TV
+#EXTGRP:Tamil Cable TV
+http://site1.ultramaxnet.com/client/hls/namma-ooru-tv/kavintv/index.m3u8
+#EXTINF:0,Rasi Movies
+#EXTGRP:Tamil Cable TV
+http://singamcloud.in:8080/rasinetwork/rasimovies/playlist.m3u8
+#EXTINF:0,RCN TV
+#EXTGRP:Tamil Cable TV
+http://kairacloud.in/rcnTV/rcnTVPassword.m3u8
+#EXTINF:0,AASAI TV
+#EXTGRP:Tamil Cable TV
+http://osaitv.livebox.co.in/osaihls/live.m3u8
+#EXTINF:0,Rasi Telugu
+#EXTGRP:Tamil Cable TV
+http://singamcloud.in:8080/rasinetwork/rasicomedy/playlist.m3u8
+#EXTINF:0,MONTAMIL CINEMA
+#EXTGRP:Tamil Cable TV
+http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
+#EXTINF:0,Metro TV
+#EXTGRP:Tamil Cable TV
+http://kairacloud.in/metroTV/metroTVPassword.m3u8
+#EXTINF:0,Jayam TV
+#EXTGRP:Tamil Cable TV
+http://182.75.50.131:1935/live/jayamtv/playlist.m3u8
+#EXTINF:0,AK TV
+#EXTGRP:Tamil Cable TV
+http://kairacloud.in/akTV/akTVPassword.m3u8
+#EXTINF:0,Hari Media
+#EXTGRP:Tamil Cable TV
+http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
+#EXTINF:0,NEWS80
+#EXTGRP:Tamil Cable TV
+http://198.144.149.82:8080/NOTV/NEWS80/index.m3u8?token=GTR
+#EXTINF:0,ORANGE TV
+#EXTGRP:Tamil Cable TV
+http://198.144.149.82:8080/NOTV/ORANGETV/index.m3u8?token=GTR
+#EXTINF:0,Dharisanam TV
+#EXTGRP:Tamil Cable TV
+http://singamcloud.in:1935/yazhmedia/dharisanamtv/playlist.m3u8
+#EXTINF:0,PC TV
+#EXTGRP:Tamil Cable TV
+http://pctv.livebox.co.in/pctvhls/live.m3u8
+#EXTINF:0,Mirror TV
+#EXTGRP:Tamil Cable TV
+http://livematrix.in:1935/live/mirrortv/playlist.m3u8
+#EXTINF:0,Kalai Cinema
+#EXTGRP:Tamil Cable TV
+http://singamcloud.in:8080/kalaicinema/kalaicinema/playlist.m3u8
+#EXTINF:0,Olithirai HD
+#EXTGRP:Tamil Cable TV
+http://singamcloud.in:8080/olithiraihd/olithiraihd/playlist.m3u8
+#EXTINF:0,Akaram Kidz
+#EXTGRP:Tamil Cable TV
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+#EXTINF:0,Amma TV
+#EXTGRP:Tamil Cable TV
+http://site1.ultramaxnet.com/client/hls/namma-ooru-tv/ammatv-123-vdr-VW0gciLY5hWMu-stream/index.m3u8
+#EXTINF:0,VTV
+#EXTGRP:Tamil Cable TV
+http://198.144.149.82:8080/NOTV/VTV/index.m3u8?token=GTR
+#EXTINF:0,USHA Gold
+#EXTGRP:Tamil Cable TV
+http://198.144.149.82:8080/NOTV/USHAGOLD/index.m3u8?token=GTR
+#EXTINF:0,SAI Star
+#EXTGRP:Tamil Cable TV
+http://198.144.149.82:8080/NOTV/SAISTAR/index.m3u8?token=GTR
+#EXTINF:0,THANAMTV
+#EXTGRP:Tamil Cable TV
+http://198.144.149.82:8080/NOTV/THANAMTV/index.m3u8?token=GTR
+#EXTINF:0,World Tamil TV
+#EXTGRP:Tamil Cable TV
+http://185.105.4.244:1935/wtt/wttv/playlist.m3u8
+#EXTINF:0,Kanaa
+#EXTGRP:Tamil Cable TV
+http://198.144.149.82:8080/NOTV/KANAA/index.m3u8?token=GTR
+#EXTINF:0,ACN Cinema
+#EXTGRP:Tamil Cable TV
+http://ammacable.com:1935/acn/acncinema/playlist.m3u8
+#EXTINF:0,Tirumalai TV
+#EXTGRP:Tamil Cable TV
+http://media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8
+#EXTINF:0,Vanavil Plus
+#EXTGRP:Tamil Cable TV
+http://51.75.95.11:5080/LiveApp/streams/779115238213688180372781.m3u8
+#EXTINF:0,Jawahar TV
+#EXTGRP:Tamil Cable TV
+http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
+#EXTINF:0,KalviTV
+#EXTGRP:Tamil Cable TV
+http://198.144.149.82:8080/KALVI_GR10/index.m3u8?token=GTR
+#EXTINF:0,VAGAITV
+#EXTGRP:Tamil Cable TV
+http://198.144.149.82:8080/NOTV/VAGAITV/index.m3u8?token=GTR
+#EXTINF:0,RJ TV
+#EXTGRP:Tamil Cable TV
+http://singamcloud.in:1935/rjtv/rjtv/playlist.m3u8
+#EXTINF:0,CSK TV
+#EXTGRP:Tamil Cable TV
+http://cdn.live5.in:1935/livesp/csktv1/playlist.m3u8
+#EXTINF:0,Arunai TV
+#EXTGRP:Tamil Cable TV
+http://7starcloud.com:1935/live/arunaitv/playlist.m3u8
+#EXTINF:0,SAI TV
+#EXTGRP:Tamil Cable TV
+http://198.144.149.82:8080/NOTV/SAITVMD/index.m3u8?token=GTR
+#EXTINF:0,Singam TV
+#EXTGRP:Tamil Cable TV
+http://singamcloud.in:8080/singamtv/singamtv/playlist.m3u8
+#EXTINF:0,ANALAI MOVIE
+#EXTGRP:Tamil Cable TV
+http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
+#EXTINF:0,JAYTV
+#EXTGRP:Tamil Cable TV
+http://198.144.149.82:8080/JAYTV/index.m3u8?token=GTR
+#EXTINF:0,Ninestar TV
+#EXTGRP:Tamil Cable TV
+http://kairacloud.in/ninestarTV/ninestarTVPassword.m3u8
+#EXTINF:0,MY TV
+#EXTGRP:Tamil Cable TV
+http://account19.livebox.co.in/mytvhls/live.m3u8
+#EXTINF:0,Rasi Classic
+#EXTGRP:Tamil Cable TV
+http://singamcloud.in:8080/rasinetwork/rasiclassic/playlist.m3u8
+#EXTINF:0,Deepam TV
+#EXTGRP:Tamil Cable TV
+http://95.217.218.87/deepamtvhls/live.m3u8
+#EXTINF:0,Kalvi Solai
+#EXTGRP:Tamil Cable TV
+http://nextgeninfotech.ddns.net:8080/kalvisolai/kalvisolai.m3u8
+#EXTINF:0,Erode Krishna TV
+#EXTGRP:Tamil Cable TV
+http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
+#EXTINF:0,Namakaga TV
+#EXTGRP:Tamil Cable TV
+https://player.mslivestream.net/mslive/a5e669e9a3073f1384994f3b02576748.sdp/chunks.m3u8
+#EXTINF:0,Nakkubetta TV
+#EXTGRP:Tamil Cable TV
+https://nakkubettatv.livebox.co.in/nbtvhls/nbtv.m3u8
+#EXTINF:0,EET TV
+#EXTGRP:Tamil Cable TV
+https://eu.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:0,MN TV
+#EXTGRP:Tamil Cable TV
+https://mntv.livebox.co.in/mntvhls/mntv.m3u8
+#EXTINF:0,Tamil MTV
+#EXTGRP:Tamil Cable TV
+https://player.yarlsriserver.com/tamilmtv/b9869bec82b6ab24d914fdba43450a1e.sdp/chunks.m3u8
+#EXTINF:0,Nanban TV
+#EXTGRP:Tamil Cable TV
+http://site1.ultramaxnet.com/client/hls/namma-ooru-tv/nanbantv/index.m3u8
+#EXTINF:0,Vasantv
+#EXTGRP:Tamil Cable TV
+http://singamcloud.in:8080/vasantv/vasantv/playlist.m3u8
+#EXTINF:0,Ultramax
+#EXTGRP:Tamil Cable TV
+http://site1.ultramaxnet.com/client/hls/namma-ooru-tv/aktv-iUDJX6DDLHUWh-stream/index.m3u8
+#EXTINF:0,Jeyam TV HD
+#EXTGRP:Tamil Cable TV
+http://stream.blackmoon.in:8000/jeyamtvhd/JeyamTv/bms.m3u8
+#EXTINF:0,Akaram Mix
+#EXTGRP:Tamil Cable TV
+http://akaram.zecast.net/akaram-live/akarammix1/index.m3u8
+#EXTINF:0,Pakalavan TV
+#EXTGRP:Tamil Cable TV
+http://player.yarlsriserver.com/pakalavantv/e26fd7c8b4fd8eafbb9f99a19a1c3701.sdp/playlist.m3u8
+#EXTINF:0,JVISION
+#EXTGRP:Tamil Cable TV
+http://198.144.149.82:8080/DINESH/JVISION/index.m3u8?token=GTR
+#EXTINF:0,Ragam TV
+#EXTGRP:Tamil Cable TV
+http://account12.livebox.co.in/ntvhls/ntv.m3u8
+#EXTINF:0,SAITV
+#EXTGRP:Tamil Cable TV
+http://198.144.149.82:8080/NOTV/SAITV/index.m3u8?token=GTR
+#EXTINF:0,MAX TV
+#EXTGRP:Tamil Cable TV
+http://198.144.149.82:8080/NOTV/MAXTV/index.m3u8?token=GTR
+#EXTINF:0,UTV
+#EXTGRP:Tamil Cable TV
+http://198.144.149.82:8080/NOTV/UTV/index.m3u8?token=GTR
+#EXTINF:0,Polimer News
+#EXTGRP:Tamil News Channels
+http://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist.m3u8
+#EXTINF:0,News 7 Tamil
+#EXTGRP:Tamil News Channels
+http://versewsa.pc.cdn.bitgravity.com/versewsa/live/tamilnews7.smil/chunklist_b1000000.m3u8
+#EXTINF:0,1yestv
+#EXTGRP:Tamil News Channels
+http://livematrix.in:1935/1yestv/1yestv/playlist.m3u8
+#EXTINF:0,News18 TamilNadu
+#EXTGRP:Tamil News Channels
+https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
+#EXTINF:0,Polimer News
+#EXTGRP:Tamil News Channels
+https://youtu.be/Vq-9xWMiiVQ
+#EXTINF:0,Thanthi TV
+#EXTGRP:Tamil News Channels
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
+#EXTINF:0,PuthiyaThalaimurai
+#EXTGRP:Tamil News Channels
+http://versewsa.pc.cdn.bitgravity.com/versewsa/live/puthiyathalaimurai.smil/chunklist.m3u8
+#EXTINF:0,Sathiyamtv
+#EXTGRP:Tamil News Channels
+http://hdserver.7starcloud.com:1935/sathiyamtv/livestreaming/playlist.m3u8
+#EXTINF:0,MK Six
+#EXTGRP:Tamil Free TV
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)
+#EXTINF:0,MK TV
+#EXTGRP:Tamil Free TV
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)
+#EXTINF:0,Ka Pae Ranasingam (2020)
+#EXTGRP:Movie
+https://od.lk/d/ODhfODk0NzMzM18/www.TamilVaathi.online%20-%20Ka%20Pae%20Ranasingam%20%282020%29%201080p%20-%20TRUE%20HD%20AVC%20-%20x264%20-%20AAC%20-%203.9GB%20-%20Esub.mkv
+#EXTINF:0,Adithya Varma 720p
+#EXTGRP:Movie
+https://td.klprojects.tech/3:/Adithya%20Varma%20(2019)
+#EXTINF:0,Ratsasan
+#EXTGRP:Movie
+https://td.klprojects.tech/2:/www.TamilVaathi.online%20-%20Ratsasan%20(2018)
+#EXTINF:0,Rambo (2008) - Hin-Tam-Tel
+#EXTGRP:Movie
+https://bot1.saccount.workers.dev/Rambo%20(2008)
+#EXTINF:0,The Hobbit: The Battle of the Five Armies - x265 HEVC
+#EXTGRP:Movie
+https://bot1.saccount.workers.dev/The.Hobbit.The.Battle.of.the.Five.Armies.2014.EXTENDED.1080p.10bit.BluRay.8CH.x265.HEVC-PSA/The.Hobbit.The.Battle.of.the.Five.Armies.2014.EXTENDED.1080p.10bit.BluRay.8CH.x265.HEVC-PSA.mkv
+#EXTINF:0,Meyaadha Maan
+#EXTGRP:Movie
+https://bot3.saccount.workers.dev/www.TamilRockers.al%20-%20Meyaadha%20Maan%20(2017)
+#EXTINF:0,Saamy (2003)
+#EXTGRP:Movie
+https://bot3.saccount.workers.dev/www.TamilVaathi.online%20-%20Saamy%20(2003)
+#EXTINF:0,24 (2016)
+#EXTGRP:Movie
+https://td.klprojects.tech/1:/24%20(2016)
+#EXTINF:0,Ae Dil Hai Mushkil
+#EXTGRP:Movie
+https://td.klprojects.tech/1:/Ae%20Dil%20Hai%20Mushkil%20(2016)
+#EXTINF:0,Saamy (2003)
+#EXTGRP:Movie
+https://bot3.saccount.workers.dev/www.TamilVaathi.online%20-%20Saamy%20(2003)
+#EXTINF:0,Avengers Endgame - 4K
+#EXTGRP:Movie
+https://bot1.saccount.workers.dev/Avengers.Endgame.2019.4K.HDR.2160p.mkv
+#EXTINF:0,RajTV
+#EXTGRP:Airtel
+https://load.airtelxstream.in/rajtv/smil:common.smil/index.m3u8
+#EXTINF:0,Jaya MAX
+#EXTGRP:Airtel
+https://load.airtelxstream.in/jayamax/smil:common.smil/index.m3u8
+#EXTINF:0,Jaya Plus
+#EXTGRP:Airtel
+https://load.airtelxstream.in/jayaplus/smil:common.smil/index.m3u
+#EXTINF:0,Polimer TV
+#EXTGRP:Airtel
+https://load.airtelxstream.in/polimertv/smil:common.smil/index.m3u8
+#EXTINF:0,Raj Digital Plus
+#EXTGRP:Airtel
+https://load.airtelxstream.in/rajdigitalplus/smil:common.smil/index.m3u8
+#EXTINF:0,Sun TV SD
+#EXTGRP:Airtel
+https://load.airtelxstream.in/suntv/smil:common.smil/index.m3u8
+#EXTINF:0,Sun TV SD NXT
+#EXTGRP:Airtel
+https://mhdtvworld.live/delta/snxt/snxt.php?id=9016&e=.m3u8
+#EXTINF:0,Sun Life
+#EXTGRP:Airtel
+https://load.airtelxstream.in/sunlife/smil:common.smil/index.m3u8
+#EXTINF:0,Adithya TV
+#EXTGRP:Airtel
+https://load.airtelxstream.in/adithyatv/smil:common.smil/index.m3u8
+#EXTINF:0,Discovey Tamil
+#EXTGRP:Airtel
+https://streamitv.multitvsolution.in/idvo/discoverytamil_540p/index.m3u8
+#EXTINF:0,K TV
+#EXTGRP:Airtel
+https://load.airtelxstream.in/ktv/smil:common.smil/index.m3u8
+#EXTINF:0,Sun Music
+#EXTGRP:Airtel
+https://load.airtelxstream.in/sunmusic/smil:common.smil/index.m3u8
+#EXTINF:0,Kalaignar TV
+#EXTGRP:Airtel
+https://load.airtelxstream.in/kalaignartv/smil:common.smil/index.m3u8
+#EXTINF:0,Sirippoli
+#EXTGRP:Airtel
+https://load.airtelxstream.in/sirippoli/smil:common.smil/index.m3u8
+#EXTINF:0,Isaiaruvi
+#EXTGRP:Airtel
+https://load.airtelxstream.in/isaiaruvi/smil:common.smil/index.m3u8
+#EXTINF:0,Moon TV
+#EXTGRP:Airtel
+https://streamitv.multitvsolution.in/idvo/moontv_540p/index.m3u8
+#EXTINF:0,IBC Tamil
+#EXTGRP:Airtel
+https://ibctamil-live.ibctamil.com/transcode/ibctamil_std.m3u8
+#EXTINF:0,IBC Comedy
+#EXTGRP:Airtel
+https://ibccomedy-origin.ibctamil.com/transcode/ibccomedy_std.m3u8
+#EXTINF:0,Sony PIX HD
+#EXTGRP:JIO Test
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=Sony_Pix_HD&e=.m3u8
+#EXTINF:0,Star Vijay HD
+#EXTGRP:JIO Test
+https://mhdtvworld.live/delta/redbox/redbox.php?id=2881&e=.m3u8
+#EXTINF:0,Nick_Tamil
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=Nick_Tamil&e=.m3u8
+#EXTINF:0,Sony_Yay_Tamil
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=Sony_Yay_Tamil&e=.m3u8
+#EXTINF:0,Discovery_Kids_Tamil
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=Discovery_Kids_Tamil&e=.m3u8
+#EXTINF:0,Chutti_TV
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=Chutti_TV&e=.m3u8
+#EXTINF:0,Cartoon_Network_Tamil
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=Cartoon_Network_Tamil&e=.m3u8
+#EXTINF:0,Pogo_Tamil
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=Pogo_Tamil&e=.m3u8
+#EXTINF:0,Travel_XP_Tamil
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=Travel_XP_Tamil&e=.m3u8
+#EXTINF:0,Sony_BBC_Earth_HD_Tamil
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=Sony_BBC_Earth_HD_Tamil&e=.m3u8
+#EXTINF:0,Peppers_TV
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=Peppers_TV&e=.m3u8
+#EXTINF:0,Discovery_Channel_Tamil
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=Discovery_Channel_Tamil&e=.m3u8
+#EXTINF:0,History_18_Tamil
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=History_18_Tamil&e=.m3u8
+#EXTINF:0,Madhimugam_TV
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=Madhimugam_TV&e=.m3u8
+#EXTINF:0,Jaya_Max
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=Jaya_Max&e=.m3u8
+#EXTINF:0,Polimer_News
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=Polimer_News&e=.m3u8
+#EXTINF:0,News_18_Tamilnadu
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=News_18_Tamilnadu&e=.m3u8
+#EXTINF:0,Raj_News_24x7
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=Raj_News_24x7&e=.m3u8
+#EXTINF:0,Captain_News
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=Captain_News&e=.m3u8
+#EXTINF:0,Sathiyam
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=Sathiyam&e=.m3u8
+#EXTINF:0,News7_Tamil
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=News7_Tamil&e=.m3u8
+#EXTINF:0,Sun_News
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=Sun_News&e=.m3u8
+#EXTINF:0,Puthiya_Thalimurai
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=Puthiya_Thalimurai&e=.m3u8
+#EXTINF:0,Thanthi_TV
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=Thanthi_TV&e=.m3u8
+#EXTINF:0,K1_TV
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=K1_TV&e=.m3u8
+#EXTINF:0,Malai_Murasu
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=Malai_Murasu&e=.m3u8
+#EXTINF:0,Sun_Life
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=Sun_Life&e=.m3u8
+#EXTINF:0,Raj_Digital_Plus
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=Raj_Digital_Plus&e=.m3u8
+#EXTINF:0,Vendhar_TV
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=Vendhar_TV&e=.m3u8
+#EXTINF:0,MK_TV
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=MK_TV&e=.m3u8
+#EXTINF:0,Zee_Tamil
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=Zee_Tamil&e=.m3u8
+#EXTINF:0,Captain_tv
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=Captain_tv&e=.m3u8
+#EXTINF:0,DD5_Podhigai
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=DD5_Podhigai&e=.m3u8
+#EXTINF:0,Puthu_Yugam
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=Puthu_Yugam&e=.m3u8
+#EXTINF:0,Polimer_TV
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=Polimer_TV&e=.m3u8
+#EXTINF:0,Raj_TV
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=Raj_TV&e=.m3u8
+#EXTINF:0,Makkal_TV
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=Makkal_TV&e=.m3u8
+#EXTINF:0,Adithya_TV
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=Adithya_TV&e=.m3u8
+#EXTINF:0,Vasanth_TV
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=Vasanth_TV&e=.m3u8
+#EXTINF:0,Sun_Music
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=Sun_Music&e=.m3u8
+#EXTINF:0,Raj_Musix
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=Raj_Musix&e=.m3u8
+#EXTINF:0,Sahana_Music
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=Sahana_Music&e=.m3u8
+#EXTINF:0,Tunes_6
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=Tunes_6&e=.m3u8
+#EXTINF:0,MK_Music
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=MK_Music&e=.m3u8
+#EXTINF:0,Colors_Tamil_HD
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=Colors_Tamil_HD&e=.m3u8
+#EXTINF:0,Jaya_TV_HD
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=Jaya_TV_HD&e=.m3u8
+#EXTINF:0,Kalaignar_TV
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=Kalaignar_TV&e=.m3u8
+#EXTINF:0,sonic_Tamil
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=sonic_Tamil&e=.m3u8
+#EXTINF:0,CN_HD_Tamil
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=CN_HD_Tamil&e=.m3u8
+#EXTINF:0,Lotus_News
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=Lotus_News&e=.m3u8
+#EXTINF:0,Jaya_Plus
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=Jaya_Plus&e=.m3u8
+#EXTINF:0,Win_TV
+#EXTGRP:JIO TV
+https://jiocdn.fun/jio/jiotv/xyztv.php?c=Win_TV&e=.m3u8
+#EXTINF:0,KBO HD
+#EXTGRP:YuppTV Test
+https://mhdtvworld.live/7star/yupp.php?id=91393481&e=.m3u8
+#EXTINF:0,Colors Tamil
+#EXTGRP:Tamil IPTV
+https://livevoot-i.akamaihd.net/dash/live/828537/colorstamilhd/master.mpd
+#EXTINF:0,Nambikkai
+#EXTGRP:Tamil IPTV
+https://tivimateplaylists.live/nambikkain
+#EXTINF:0,DD Podhigai
+#EXTGRP:Tamil IPTV
+https://tivimateplaylists.live/ddpodhighain
+#EXTINF:0,Captain Tv
+#EXTGRP:Tamil IPTV
+https://tivimateplaylists.live/captain-tvn
+#EXTINF:0,7S Music
+#EXTGRP:Tamil IPTV
+https://tivimateplaylists.live/7s-musicn
+#EXTINF:0,Isai Aruvi
+#EXTGRP:Tamil IPTV
+https://tivimateplaylists.live/isaiaruvin
+#EXTINF:0,Tune 6
+#EXTGRP:Tamil IPTV
+https://tivimateplaylists.live/Tune6n
+#EXTINF:0,Makkal TV
+#EXTGRP:Tamil IPTV
+https://tivimateplaylists.live/makkaltvn
+#EXTINF:0,Puthiya Thalaimurai
+#EXTGRP:Tamil IPTV
+https://tivimateplaylists.live/puthiyan
+#EXTINF:0,Chithiram
+#EXTGRP:Tamil IPTV
+https://tivimateplaylists.live/chithiramn
+#EXTINF:0,CVBC2
+#EXTGRP:Tamil IPTV
+https://tivimateplaylists.live/svbc2n
+#EXTINF:0,Kollywood
+#EXTGRP:Tamil IPTV
+https://tivimateplaylists.live/kollywood
+#EXTINF:0,Malai Murasu
+#EXTGRP:Tamil IPTV
+https://tivimateplaylists.live/malaimurasun
+#EXTINF:0,Vendhar
+#EXTGRP:Tamil IPTV
+https://tivimateplaylists.live/vendar
+#EXTINF:0,Zee Tamil
+#EXTGRP:Tamil IPTV
+https://tivimateplaylists.live/zeetamil
+#EXTINF:0,Zee Thirai
+#EXTGRP:Tamil IPTV
+https://tivimateplaylists.live/zeethrain
+#EXTINF:0,TVi HD
+#EXTGRP:Tamil IPTV
+https://tivimateplaylists.live/tvihdn
+#EXTINF:0,Angel tv HD
+#EXTGRP:Tamil IPTV
+https://tivimateplaylists.live/angel-tvn
+#EXTINF:0,Chutti Tv
+#EXTGRP:Tamil IPTV
+https://tivimateplaylists.live/Chhuthi-tvn
+#EXTINF:0,Jaya Plus
+#EXTGRP:Tamil IPTV
+https://tivimateplaylists.live/jayaplusn
+#EXTINF:0,KTV HD
+#EXTGRP:Tamil IPTV
+https://tivimateplaylists.live/ktvhdn
+#EXTINF:0,Raj TV
+#EXTGRP:Tamil IPTV
+https://tivimateplaylists.live/raj-tv
+#EXTINF:0,Raj Digital Plus
+#EXTGRP:Tamil IPTV
+https://tivimateplaylists.live/rajdigitalplusn
+#EXTINF:0,Polimer TV
+#EXTGRP:Tamil IPTV
+https://tivimateplaylists.live/polimertvn
+#EXTINF:0,Adithya TV
+#EXTGRP:Tamil IPTV
+https://tivimateplaylists.live/adithyatvn
+#EXTINF:0,Sun Life
+#EXTGRP:Tamil IPTV
+https://tivimateplaylists.live/sunlifen
+#EXTINF:0,Sun Music
+#EXTGRP:Tamil IPTV
+https://tivimateplaylists.live/sunmusicn
+#EXTINF:0,KTV
+#EXTGRP:Tamil IPTV
+https://tivimateplaylists.live/ktvn
+#EXTINF:0,Sun Tv
+#EXTGRP:Tamil IPTV
+https://tivimateplaylists.live/suntvn
+#EXTINF:0,Discovery Tamil
+#EXTGRP:Tamil IPTV
+https://tivimateplaylists.live/discoverytamiln
+#EXTINF:0,IBC Music
+#EXTGRP:Tamil IPTV
+https://tivimateplaylists.live/ibc-musicn
+#EXTINF:0,Puthuyugam TV
+#EXTGRP:Tamil IPTV
+https://tivimateplaylists.live/puthuyugam-tvn
+#EXTINF:0,Kalaignar TV
+#EXTGRP:Tamil IPTV
+https://tivimateplaylists.live/kalaignar-tvn
+#EXTINF:0,Sirippoli
+#EXTGRP:Tamil IPTV
+https://tivimateplaylists.live/sirippolin
+#EXTINF:0,MK Six
+#EXTGRP:Tamil IPTV
+https://tivimateplaylists.live/mksixn
+#EXTINF:0,Imayam Tv
+#EXTGRP:Tamil IPTV
+https://tivimateplaylists.live/imayamtvn
+#EXTINF:0,Moon Tv
+#EXTGRP:Tamil IPTV
+https://tivimateplaylists.live/Moon-TVn
+#EXTINF:0,IBC Tamil
+#EXTGRP:Tamil IPTV
+https://tivimateplaylists.live/ibc-tamiln
+#EXTINF:0,IBC Comedy
+#EXTGRP:Tamil IPTV
+https://tivimateplaylists.live/ibccomedyn
+#EXTINF:0,Raj Musix
+#EXTGRP:Tamil IPTV
+https://tivimateplaylists.live/Rajmusixn
+#EXTINF:0,Star Vijay HD
+#EXTGRP:Tamil IPTV
+https://tivimateplaylists.live/star-vijayn
+#EXTINF:0,Sun News
+#EXTGRP:Tamil IPTV
+https://tivimateplaylists.live/sunnewsn
+#EXTINF:0,Tv aus tamil
+#EXTGRP:Tamil IPTV
+https://tivimateplaylists.live/tvaustamiln
+#EXTINF:0,Tv Tamil Deepam
+#EXTGRP:Tamil IPTV
+https://tivimateplaylists.live/tvtamildeepamn
+#EXTINF:0,IPL Server 1
+#EXTGRP:Sports IPTV
+https://tivimateplaylists.live/hotstarN
+#EXTINF:0,IPL Server 2
+#EXTGRP:Sports IPTV
+https://tivimateplaylists.live/hotstar-2N
+#EXTINF:0,Sky Sports Cricket
+#EXTGRP:Sports IPTV
+https://tivimateplaylists.live/skysportscricket2n
+#EXTINF:0,S Cricket
+#EXTGRP:Sports IPTV
+https://tivimateplaylists.live/scricketnn
+#EXTINF:0,S Grandstand
+#EXTGRP:Sports IPTV
+https://tivimateplaylists.live/sgrandstnn
+#EXTINF:0,Fox Cricket 501 IPL
+#EXTGRP:Sports IPTV
+https://tivimateplaylists.live/astroymcricketn
+#EXTINF:0,GTV IPL
+#EXTGRP:Sports IPTV
+https://tivimateplaylists.live/gazin
+#EXTINF:0,Star Sports Hindi
+#EXTGRP:Sports IPTV
+https://tivimateplaylists.live/starsportshindin
+#EXTINF:0,Star Sports 1
+#EXTGRP:Sports IPTV
+https://tivimateplaylists.live/star-sports-1-testingn
+#EXTINF:0,Star Sports 2
+#EXTGRP:Sports IPTV
+https://tivimateplaylists.live/star-sports-2-testingn
+#EXTINF:0,Star Sports Tamil
+#EXTGRP:Sports IPTV
+https://tivimateplaylists.live/starsportstamiln
+#EXTINF:0,Star Sports Select 1
+#EXTGRP:Sports IPTV
+https://tivimateplaylists.live/star-sports-select-1-testingn
+#EXTINF:0,Star Sports Select 2
+#EXTGRP:Sports IPTV
+https://tivimateplaylists.live/starsports-selct2-testingn
+#EXTINF:0,Sony SIX HD
+#EXTGRP:Sports IPTV
+https://tivimateplaylists.live/sony-sixn
+#EXTINF:0,Sony Ten 1 HD
+#EXTGRP:Sports IPTV
+https://tivimateplaylists.live/sonyten1hdn
+#EXTINF:0,Sony Ten 2 HD
+#EXTGRP:Sports IPTV
+https://tivimateplaylists.live/sonyten2hdn
+#EXTINF:0,Sony Ten 3 HD
+#EXTGRP:Sports IPTV
+https://tivimateplaylists.live/sonyten3hdn
+#EXTINF:0,Willow
+#EXTGRP:Sports IPTV
+https://tivimateplaylists.live/willown
+#EXTINF:0,Bein Sports 1
+#EXTGRP:Sports IPTV
+https://tivimateplaylists.live/Bein1footballn
+#EXTINF:0,Sky Sports Football
+#EXTGRP:Sports IPTV
+https://tivimateplaylists.live/sky-football-2n
+#EXTINF:0,WWE
+#EXTGRP:Sports IPTV
+https://tivimateplaylists.live/wwen
+#EXTINF:0,Bein Sports Xtra
+#EXTGRP:Sports IPTV
+https://tivimateplaylists.live/bein-sports-xtran
+#EXTINF:0,Sports Max
+#EXTGRP:Sports IPTV
+https://tivimateplaylists.live/sports-maxn
