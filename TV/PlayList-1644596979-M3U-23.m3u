@@ -1,0 +1,74 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/bc5b56c663e4476badfe70faae1ee75f.png" group-title="SHAREEXT@LIVE|MOVIE", (ONLINE) Galaxy Premium
+http://shareext@urtv.cc:80/live/186867/186867/8838.ts?shareext.ts
+
+#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/342a0f0cacfbb2cdb3a0aa994784d887.png" group-title="SHAREEXT@LIVE|MOVIE", (ONLINE) Galaxy
+http://shareext@urtv.cc:80/live/186867/186867/8839.ts?shareext.ts
+
+#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/597d58c4634acfa46ffd7ec56cebc923.png" group-title="SHAREEXT@LIVE|MOVIE", (ONLINE) HBO FHD
+http://shareext@urtv.cc:80/live/186867/186867/7067.ts?shareext.ts
+
+#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/f5a402f969d6cbf259b9523e35427024.png" group-title="SHAREEXT@LIVE|MOVIE", (ONLINE) HBO Hits FHD
+http://shareext@urtv.cc:80/live/186867/186867/7068.ts?shareext.ts
+
+#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/8877fb6ba2801969210b41d20f8439ef.png" group-title="SHAREEXT@LIVE|MOVIE", (ONLINE) HBO Signature FHD
+http://shareext@urtv.cc:80/live/186867/186867/7069.ts?shareext.ts
+
+#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/36e39cc071447ddbf7abf40add2dd3b8.png" group-title="SHAREEXT@LIVE|MOVIE", (ONLINE) HBO Family FHD
+http://shareext@urtv.cc:80/live/186867/186867/7070.ts?shareext.ts
+
+#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/c55c0ef62eadb4283880cb9b90eb16e0.png" group-title="SHAREEXT@LIVE|MOVIE", (ONLINE) Hits Movies
+http://shareext@urtv.cc:80/live/186867/186867/7066.ts?shareext.ts
+
+#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/30b3db0865e095679afe6d133e395059.jpg" group-title="SHAREEXT@LIVE|MOVIE", (ONLINE) Red By HBO HD
+http://shareext@urtv.cc:80/live/186867/186867/7071.ts?shareext.ts
+
+#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/342a0f0cacfbb2cdb3a0aa994784d887.png" group-title="SHAREEXT@LIVE|MOVIE", (ONLINE) Galaxy
+http://shareext@urtv.cc:80/live/186867/186867/8839.ts?shareext.ts
+
+#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/597d58c4634acfa46ffd7ec56cebc923.png" group-title="SHAREEXT@LIVE|MOVIE", (ONLINE) HBO FHD
+http://shareext@urtv.cc:80/live/186867/186867/7067.ts?shareext.ts
+
+#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/f5a402f969d6cbf259b9523e35427024.png" group-title="SHAREEXT@LIVE|MOVIE", (ONLINE) HBO Hits FHD
+http://shareext@urtv.cc:80/live/186867/186867/7068.ts?shareext.ts
+
+#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/8877fb6ba2801969210b41d20f8439ef.png" group-title="SHAREEXT@LIVE|MOVIE", (ONLINE) HBO Signature FHD
+http://shareext@urtv.cc:80/live/186867/186867/7069.ts?shareext.ts
+
+#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/36e39cc071447ddbf7abf40add2dd3b8.png" group-title="SHAREEXT@LIVE|MOVIE", (ONLINE) HBO Family FHD
+http://shareext@urtv.cc:80/live/186867/186867/7070.ts?shareext.ts
+
+#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/c55c0ef62eadb4283880cb9b90eb16e0.png" group-title="SHAREEXT@LIVE|MOVIE", (ONLINE) Hits Movies
+http://shareext@urtv.cc:80/live/186867/186867/7066.ts?shareext.ts
+
+#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/22f6bf7562a214da6986407de0aa7bf2.jpeg" group-title="SHAREEXT@LIVE|MOVIE", (OFFLINE) FOX
+http://shareext@urtv.cc:80/live/186867/186867/7227.ts?shareext.ts
+
+#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/597d58c4634acfa46ffd7ec56cebc923.png" group-title="SHAREEXT@LIVE|MOVIE", (ONLINE) HBO FHD
+http://shareext@urtv.cc:80/live/186867/186867/7067.ts?shareext.ts
+
+#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/f5a402f969d6cbf259b9523e35427024.png" group-title="SHAREEXT@LIVE|MOVIE", (OFFLINE) HBO Hits FHD
+http://shareext@urtv.cc:80/live/186867/186867/7068.ts?shareext.ts
+
+#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/8877fb6ba2801969210b41d20f8439ef.png" group-title="SHAREEXT@LIVE|MOVIE", (ONLINE) HBO Signature FHD
+http://shareext@urtv.cc:80/live/186867/186867/7069.ts?shareext.ts
+
+#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/36e39cc071447ddbf7abf40add2dd3b8.png" group-title="SHAREEXT@LIVE|MOVIE", (ONLINE) HBO Family FHD
+http://shareext@urtv.cc:80/live/186867/186867/7070.ts?shareext.ts
+
+#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/c55c0ef62eadb4283880cb9b90eb16e0.png" group-title="SHAREEXT@LIVE|MOVIE", (ONLINE) Hits Movies
+http://shareext@urtv.cc:80/live/186867/186867/7066.ts?shareext.ts
+
+#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/5487315b1286f907165907aa8fc96619.png" group-title="SHAREEXT@LIVE|MOVIE", (OFFLINE) MNX
+http://shareext@urtv.cc:80/live/186867/186867/8998.ts?shareext.ts
+
+#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/2ff46df0979b4464c685782588b1d986.jpg" group-title="SHAREEXT@LIVE|MOVIE", (ONLINE) Movies Now
+http://shareext@urtv.cc:80/live/186867/186867/8999.ts?shareext.ts
+
+#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/cbf50fdf2186c7a0a8cef8fd2ae9f2d3.png" group-title="SHAREEXT@LIVE|MOVIE", (ONLINE) Fox Family Movie
+http://shareext@urtv.cc:80/live/186867/186867/9027.ts?shareext.ts
+
