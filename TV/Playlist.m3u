@@ -1,0 +1,1318 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="137" tvg-name=" Lale [H]" tvg-country="undefined" tvg-language="" tvg-logo="https://i.imgur.com/shEcc31.png" group-title="Kids Hindi", Lale [H]
+http://stream.atr.ua/lale//live/index.m3u8
+
+#EXTINF:-1 tvg-id="135" tvg-name=" EBS Kids" tvg-country="undefined" tvg-language="" tvg-logo="https://i.imgur.com/DraJIkm.png" group-title="Kids", EBS Kids
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w920137870.m3u8
+
+#EXTINF:-1 tvg-id="131" tvg-name=" Dubai Sports 3" tvg-country="undefined" tvg-language="" tvg-logo="https://i.imgur.com/oOUauO8.png" group-title="Sports", Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="130" tvg-name=" Dubai Sports 2" tvg-country="undefined" tvg-language="" tvg-logo="https://i.imgur.com/oOUauO8.png" group-title="Sports", Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="129" tvg-name=" Dubai Sports 1" tvg-country="undefined" tvg-language="" tvg-logo="https://i.imgur.com/bDCErVN.png" group-title="Sports", Dubai Sports 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="128" tvg-name=" AD Sports 2" tvg-country="undefined" tvg-language="" tvg-logo="https://i.imgur.com/OA19S3j.png" group-title="Sports", AD Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+
+#EXTINF:-1 tvg-id="127" tvg-name=" Peace TV English" tvg-country="undefined" tvg-language="" tvg-logo="https://i.imgur.com/9MbFLNX.png" group-title="Religious", Peace TV English
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+
+#EXTINF:-1 tvg-id="126" tvg-name=" Madani TV" tvg-country="undefined" tvg-language="" tvg-logo="https://i.imgur.com/MujATAg.png" group-title="Religious", Madani TV
+https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="125" tvg-name=" Ahlulbayt TV" tvg-country="undefined" tvg-language="" tvg-logo="https://i.imgur.com/1tdRLn8.png" group-title="Religious", Ahlulbayt TV
+http://109.123.126.10:1935/live/livestream1.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="124" tvg-name=" Ali TV" tvg-country="undefined" tvg-language="" tvg-logo="https://i.imgur.com/p38aILI.png" group-title="Religious", Ali TV
+https://alitv.livebox.co.in/alitvhls/live.m3u8
+
+#EXTINF:-1 tvg-id="123" tvg-name=" Al Jazeera SD" tvg-country="undefined" tvg-language="" tvg-logo="https://i.imgur.com/dQrdh2F.png" group-title="English News", Al Jazeera SD
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
+
+#EXTINF:-1 tvg-id="122" tvg-name=" Al Jazeera HD" tvg-country="undefined" tvg-language="" tvg-logo="https://i.imgur.com/dQrdh2F.png" group-title="English News", Al Jazeera HD
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+
+#EXTINF:-1 tvg-id="121" tvg-name=" Al Jazeera FHD" tvg-country="undefined" tvg-language="" tvg-logo="https://i.imgur.com/dQrdh2F.png" group-title="English News", Al Jazeera FHD
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 tvg-id="119" tvg-name=" CNN HD " tvg-country="undefined" tvg-language="" tvg-logo="https://i.imgur.com/Jy3Vr9F.png" group-title="English News", CNN HD 
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+
+#EXTINF:-1 tvg-id="118" tvg-name=" CNA HD" tvg-country="undefined" tvg-language="" tvg-logo="https://i.imgur.com/AsLYbdw.png" group-title="English News", CNA HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#EXTINF:-1 tvg-id="117" tvg-name=" Arirang TV" tvg-country="undefined" tvg-language="" tvg-logo="https://i.imgur.com/rDkxPUU.png" group-title="English News", Arirang TV
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="115" tvg-name="Subrang TV" tvg-country="undefined" tvg-language="Hindi" tvg-logo="https://www.subrangtv.com/wp-content/uploads/2017/03/custom-logo.jpg" group-title="/Sony_BBC_Earth_HD_Tamil_TAB.m3u8",Subrang TV
+https://cdn61.liveonlineservices.com/hls/subrang.m3u8
+
+#EXTINF:-1 tvg-id="114" tvg-name="Global Punjab (720p)" tvg-country="undefined" tvg-language="Hindi" tvg-logo="" group-title="News",Global Punjab (720p)
+https://wowzaprod207-i.akamaihd.net/hls/live/827936/2eba5b83/playlist.m3u8
+
+#EXTINF:-1 tvg-id="113" tvg-name="Amar Ujala (360p)" tvg-country="undefined" tvg-language="Hindi" tvg-logo="" group-title="News",Amar Ujala (360p)
+https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="112" tvg-name="Jeyam TV" tvg-country="undefined" tvg-language="" tvg-logo="http://jeyamtv.in/wp-content/uploads/2020/01/jeyam-tv-logo-e1581244005299.png" group-title="மதம்",Jeyam TV
+https://jeyamtv.livebox.co.in/JeyamTelevisionhls/JeyamTelevision.m3u8
+
+#EXTINF:-1 tvg-id="110" tvg-name="Amrita" tvg-country="undefined" tvg-language="" tvg-logo="https://www.amritatv.com/vf-image/amritatv_logo.png" group-title="മലയാളം",Amrita
+http://dr1zhpsuem5f4.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-id="109" tvg-name="Janam TV" tvg-country="undefined" tvg-language="" tvg-logo="https://janamtv.com/wp-content/uploads/2017/09/logo_blue_03.jpg" group-title="മലയാളം",Janam TV
+http://vidnetcdn.vidgyor.com:80/janamtv-origin/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="107" tvg-name="VTV" tvg-country="undefined" tvg-language="" tvg-logo="http://vnews.mv/themes/vmedia/images/vtv.png" group-title="ިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ",VTV
+http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="105" tvg-name="Groovy TV" tvg-country="undefined" tvg-language="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",Groovy TV
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="104" tvg-name="Movie Sphere" tvg-country="undefined" tvg-language="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",Movie Sphere
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="103" tvg-name="Sky Sports Cricket" tvg-country="undefined" tvg-language="Tamil" tvg-logo="" group-title="English Sports",Sky Sports Cricket
+http://93.152.174.144:4000/play/skysports2/index.m3u8
+
+#EXTINF:-1 tvg-id="102" tvg-name="Star Movies Link 2" tvg-country="undefined" tvg-language="Tamil" tvg-logo="" group-title="English Movies",Star Movies Link 2
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
+
+#EXTINF:-1 tvg-id="101" tvg-name="Star Movies RFTV JIO TV" tvg-country="undefined" tvg-language="Tamil" tvg-logo="" group-title="English Movies",Star Movies RFTV JIO TV
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="100" tvg-name="CNN News 18" tvg-country="undefined" tvg-language="Tamil" tvg-logo="" group-title="English News",CNN News 18
+https://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_3_av-p.m3u8
+
+#EXTINF:-1 tvg-id="95" tvg-name="LOTUS NEWS(Tamil)" tvg-country="undefined" tvg-language="" tvg-logo="" group-title="/Awestream.m3u",LOTUS NEWS(Tamil)
+http://wowzaprod170-i.akamaihd.net/hls/live/630629/b6055932/playlist.m3u8
+
+#EXTINF:-1 tvg-id="94" tvg-name="NEWS 18 Tamil" tvg-country="undefined" tvg-language="" tvg-logo="" group-title="/Awestream.m3u",NEWS 18 Tamil
+http://news18tamil-lh.akamaihd.net:80/i/n18tamil_1@526595/index_5_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="93" tvg-name="THANTHI TV Tamil" tvg-country="undefined" tvg-language="" tvg-logo="" group-title="/Awestream.m3u",THANTHI TV Tamil
+http://vidcdn.vidgyor.com:80/thanthi-origin/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="92" tvg-name="Vendhar NEWS(Tamil)" tvg-country="undefined" tvg-language="" tvg-logo="" group-title="/Awestream.m3u",Vendhar NEWS(Tamil)
+https://dftkpvamsm0r1.cloudfront.net/out/v1/ee7ba7ef70fc4005a3992a2c0e8336aa/ETVB_CF_TN_NewsTime.m3u8
+
+#EXTINF:-1 tvg-id="91" tvg-name="Sun Music Tamil" tvg-country="undefined" tvg-language="" tvg-logo="" group-title="/Awestream.m3u",Sun Music Tamil
+http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
+
+#EXTINF:-1 tvg-id="90" tvg-name="7S Musix(Tamil)" tvg-country="undefined" tvg-language="" tvg-logo="" group-title="/Awestream.m3u",7S Musix(Tamil)
+http://103.199.161.254:80/Content/7smusic/Live/Channel(7smusic)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-id="88" tvg-name="nick HD+" tvg-country="undefined" tvg-language="Hindi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Nick%2B.svg/revision/latest/scale-to-width-down/250?cb=20200914170914" group-title="Kids",nick HD+
+https://livevoot-i.akamaihd.net/dash/live/876655/nickhd/master.mpd
+
+#EXTINF:-1 tvg-id="87" tvg-name="IIT Course " tvg-country="undefined" tvg-language="English" tvg-logo="https://d1vwxdpzbgdqj.cloudfront.net/assets/iitm-lp/iitm-logo-06204d6a5d7ccd7b00d6b12ab7f3824a07089026ed5b28752c9188f0a8bd555b.png" group-title="Education",IIT Course 
+https://msllive.yuppcdn.net/live/yuppsportsind/hls/live/2004030/ymcc12thiity/ymcc12thiity/playlist/master.m3u8?e=2&Auth_Token=ad4ab5ced8688891fb20082b90c3fe87cdf08d40
+
+#EXTINF:-1 tvg-id="86" tvg-name=" NEET Course " tvg-country="undefined" tvg-language="English" tvg-logo="https://static.javatpoint.com/fullformpages/images/neet.png" group-title="Education", NEET Course 
+https://msllive.yuppcdn.net/live/yuppsportsind/hls/live/2004030/ymcc12thneety/ymcc12thneety/playlist/master.m3u8?e=5&Auth_Token=ad4ab5ced8688891fb20082b90c3fe87cdf08d40
+
+#EXTINF:-1 tvg-id="85" tvg-name="Food Food" tvg-country="undefined" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Food_Food.png/revision/latest/scale-to-width-down/220?cb=20190307145616" group-title="Infotainment",Food Food
+https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="83" tvg-name="Hungama Dil Se" tvg-country="undefined" tvg-language="India" tvg-logo="https://1.bp.blogspot.com/-mhaTNr3SVcg/W_o9ZcUNEMI/AAAAAAAACQk/f1BiRxWMt9Y6FFNNvFIsxgX0i4CpjUL6wCLcBGAs/s320/Hungama-dil-se.png" group-title="Hindi Music",Hungama Dil Se
+https://live.hungama.com/linear/dil-se/playlist.m3u8
+
+#EXTINF:-1 tvg-id="80" tvg-name="9xm" tvg-country="undefined" tvg-language="India" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/9xm_red.svg/revision/latest/scale-to-width-down/250?cb=20210508163434" group-title="Hindi Music",9xm
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+
+#EXTINF:-1 tvg-id="79" tvg-name="MTV Beats HD" tvg-country="undefined" tvg-language="India" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/MTV_Beats_HD-0.jpg/revision/latest/scale-to-width-down/200?cb=20180711070218" group-title="Hindi Music",MTV Beats HD
+https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
+
+#EXTINF:-1 tvg-id="77" tvg-name="India Today" tvg-country="undefined" tvg-language="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdxLelPwXy9hC058K6tQkrFAT7sY_2lLzCdQ&usqp=CAU" group-title="English News",India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320-b/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="76" tvg-name="KCL TV" tvg-country="undefined" tvg-language="Malayalam " tvg-logo="https://image.winudf.com/v2/image1/aW4ubm92aWluZHVzbGxwLmtjbGxpdmV0dl9pY29uXzE1NjQ5OTQzMDhfMDcz/icon.png?w=170&fakeurl=1" group-title="Entertainment",KCL TV
+http://kcltv.livebox.co.in:80/kclhls/live.m3u8
+
+#EXTINF:-1 tvg-id="75" tvg-name="Pulari TV" tvg-country="undefined" tvg-language="Malayalam" tvg-logo="https://yt3.ggpht.com/vu2CEn-_StvaTAHp7BMvtw0n63S2_U4yDEnpoIr67KHVhsyCjSrIL1lnngVFD8lSibDL9Jmbklk=s88-c-k-c0x00ffffff-no-rj" group-title="Entertainment",Pulari TV
+http://192.99.2.28/pularitv_hls/pularitv.m3u8
+
+#EXTINF:-1 tvg-id="74" tvg-name="M4 Malayalam Australia" tvg-country="undefined" tvg-language="Malayalam" tvg-logo="https://m4tv.com.au/assests/images/logo.png" group-title="Entertainment",M4 Malayalam Australia
+http://app.m4stream.live/mfourmalayalamhls/live.m3u8
+
+#EXTINF:-1 tvg-id="73" tvg-name="One TV" tvg-country="undefined" tvg-language="Malayalam " tvg-logo="https://i.postimg.cc/cLwtmx4x/onetv.png" group-title="Entertainment",One TV
+http://137.59.86.218:1935/live/onetv/chunklist_w439742991.m3u8
+
+#EXTINF:-1 tvg-id="72" tvg-name="UTV Palakkad" tvg-country="undefined" tvg-language="Malayalam " tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Entertainment",UTV Palakkad
+http://live.wmncdn.net:80/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-id="71" tvg-name="5aab TV (720p)" tvg-country="undefined" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/PUNJAB5AAB.jpg" group-title="Hindi ",5aab TV (720p)
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="70" tvg-name="Aaj Tak (720p)" tvg-country="undefined" tvg-language="Hindi" tvg-logo="" group-title="Hindi News",Aaj Tak (720p)
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+
+#EXTINF:-1 tvg-id="69" tvg-name="Aaj Tak (576p)" tvg-country="undefined" tvg-language="Hindi" tvg-logo="" group-title="Hindi News",Aaj Tak (576p)
+https://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="68" tvg-name="ABP Ananda (720p)" tvg-country="undefined" tvg-language="Hindi" tvg-logo=" group-title=" group-title="Hindi ",ABP Ananda (720p)
+https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
+
+#EXTINF:-1 tvg-id="66" tvg-name="ABP Asmita (720p)" tvg-country="undefined" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/08/abp_asmita_in.png" group-title="Hindi News",ABP Asmita (720p)
+https://abp-i.akamaihd.net/hls/live/765532/abpasmita/master.m3u8
+
+#EXTINF:-1 tvg-id="65" tvg-name="ABP Asmita (324p)" tvg-country="undefined" tvg-language="Hindi" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZNoM8_ZqOG-8Lksy07YD-ltPehSFnfWcmxTU1LxlwbC58_8jcfJ987g" group-title="Hindi News",ABP Asmita (324p)
+https://abpasmita-lh.akamaihd.net/i/abpasmita_1@77821/master.m3u8
+
+#EXTINF:-1 tvg-id="64" tvg-name="ABP Majha (720p)" tvg-country="undefined" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/abpmajha78.jpg" group-title="Hindi News",ABP Majha (720p)
+https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8
+
+#EXTINF:-1 tvg-id="63" tvg-name="ABP News (324p)" tvg-country="undefined" tvg-language="English" tvg-logo=" group-title=" group-title="English News",ABP News (324p)
+http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
+
+#EXTINF:-1 tvg-id="62" tvg-name="ABP News (720p)" tvg-country="undefined" tvg-language="English" tvg-logo=" group-title=" group-title="English News",ABP News (720p)
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
+
+#EXTINF:-1 tvg-id="61" tvg-name="Anjan (720p)" tvg-country="undefined" tvg-language="Hindi" tvg-logo="" group-title="Hindi ",Anjan (720p)
+https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
+
+#EXTINF:-1 tvg-id="60" tvg-name="Assam Talks (240p)" tvg-country="undefined" tvg-language="Hindi" tvg-logo="" group-title="Hindi News",Assam Talks (240p)
+http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="59" tvg-name="Ayush TV (720p)" tvg-country="undefined" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/ayush_tv_in.png" group-title="Hindi Lifestyle",Ayush TV (720p)
+https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+
+#EXTINF:-1 tvg-id="58" tvg-name="Bflix Movies (480p)" tvg-country="undefined" tvg-language="Hindi" tvg-logo="" group-title="Hindi Movies",Bflix Movies (480p)
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+
+#EXTINF:-1 tvg-id="57" tvg-name="Boogle Bollywood (400p)" tvg-country="undefined" tvg-language="Hindi" tvg-logo="http://booglebollywood.com/wp-content/uploads/2018/02/boogle-bollywood-final_2-300x96.png" group-title="Hindi ",Boogle Bollywood (400p)
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+
+#EXTINF:-1 tvg-id="56" tvg-name="Channel Win (360p)" tvg-country="undefined" tvg-language="Hindi" tvg-logo="" group-title="Hindi ",Channel Win (360p)
+https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="55" tvg-name="Channel Y (720p)" tvg-country="undefined" tvg-language="Hindi" tvg-logo="" group-title="Hindi ",Channel Y (720p)
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="54" tvg-name="CNBC Awaaz" tvg-country="undefined" tvg-language="Hindi" tvg-logo="" group-title="Hindi Business",CNBC Awaaz
+https://ch.iptvmate.net/0062d390de66fa0026f07fda64beeee2.m3u8
+
+#EXTINF:-1 tvg-id="53" tvg-name="CNBC Awaaz" tvg-country="undefined" tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/CNBC_Awaaz_2010.png" group-title="Hindi Business",CNBC Awaaz
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-id="52" tvg-name="CNBC Awaaz SD" tvg-country="undefined" tvg-language="Hindi" tvg-logo="" group-title="Hindi ",CNBC Awaaz SD
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="51" tvg-name="CNBC Bajar" tvg-country="undefined" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/08/cnbc_bajar_in.png" group-title="Hindi News",CNBC Bajar
+https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-id="50" tvg-name="CNBC TV18" tvg-country="undefined" tvg-language="English" tvg-logo="https://i.imgur.com/3yumcV3.jpg" group-title="English Business",CNBC TV18
+https://ch.iptvmate.net/ea6f7b1281c52c9b7b199e1fe73cbf5c.m3u8
+
+#EXTINF:-1 tvg-id="49" tvg-name="CNBC TV18" tvg-country="undefined" tvg-language="English" tvg-logo="https://i.imgur.com/3yumcV3.jpg" group-title="English Business",CNBC TV18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-id="48" tvg-name="CNBC TV18" tvg-country="undefined" tvg-language="English" tvg-logo="https://i.imgur.com/3yumcV3.jpg" group-title="English Business",CNBC TV18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10
+
+#EXTINF:-1 tvg-id="47" tvg-name="DD National (480p)" tvg-country="undefined" tvg-language="Hindi" tvg-logo="" group-title="Hindi News",DD National (480p)
+https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8
+
+#EXTINF:-1 tvg-id="46" tvg-name="Desi Plus (720p)" tvg-country="undefined" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/desiplustv.jpg" group-title="Hindi ",Desi Plus (720p)
+http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="45" tvg-name="Fashion TV" tvg-country="undefined" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/fashion_tv_fr.png" group-title="Hindi Fashion",Fashion TV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="FASTWAY NEWS (720p)" tvg-country="undefined" tvg-language="Hindi" tvg-logo="" group-title="Hindi ",FASTWAY NEWS (720p)
+http://163.47.214.155:1935/fwnews/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="43" tvg-name="Gaunda Punjab TV (720p)" tvg-country="undefined" tvg-language="Hindi" tvg-logo="https://i.imgur.com/J74dCx6.png" group-title="Hindi ",Gaunda Punjab TV (720p)
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="42" tvg-name="Hulchul TV" tvg-country="undefined" tvg-language="Hindi" tvg-logo="" group-title="Hindi ",Hulchul TV
+http://cdn12.henico.net:8080/live/jbani/index.m3u8
+
+#EXTINF:-1 tvg-id="41" tvg-name="India News (480p)" tvg-country="undefined" tvg-language="Hindi" tvg-logo="" group-title="Hindi News",India News (480p)
+https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
+
+#EXTINF:-1 tvg-id="40" tvg-name="India Today" tvg-country="undefined" tvg-language="Hindi" tvg-logo="" group-title="Hindi ",India Today
+https://feeds.intoday.in/hltapps/api/master.m3u8
+
+#EXTINF:-1 tvg-id="36" tvg-name="Jonack TV (360p)" tvg-country="undefined" tvg-language="Hindi" tvg-logo="" group-title="Hindi ",Jonack TV (360p)
+https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="34" tvg-name="Maha Movie (480p)" tvg-country="undefined" tvg-language="Hindi" tvg-logo="" group-title="Hindi Movies",Maha Movie (480p)
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+
+#EXTINF:-1 tvg-id="33" tvg-name="Manoranjan Movies (480p)" tvg-country="undefined" tvg-language="Hindi" tvg-logo="" group-title="Hindi Movies",Manoranjan Movies (480p)
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
+
+#EXTINF:-1 tvg-id="32" tvg-name="MH1 Prime (360p)" tvg-country="undefined" tvg-language="Hindi" tvg-logo="" group-title="Hindi ",MH1 Prime (360p)
+http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="31" tvg-name="NDTV (480p)" tvg-country="undefined" tvg-language="Hindi" tvg-logo="" group-title="Hindi News",NDTV (480p)
+https://ndtvindiaelemarchana.akamaized.net//hls//live//2003679//ndtvindia//ndtvindiamaster.m3u8
+
+#EXTINF:-1 tvg-id="30" tvg-name="NDTV India (480p)" tvg-country="undefined" tvg-language="Hindi" tvg-logo="" group-title="Hindi ",NDTV India (480p)
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+
+#EXTINF:-1 tvg-id="29" tvg-name="NDTV India (480p)" tvg-country="undefined" tvg-language="Hindi" tvg-logo="https://i.imgur.com/80vwZaO.png" group-title="Hindi News",NDTV India (480p)
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
+
+#EXTINF:-1 tvg-id="28" tvg-name="NDTV Profit" tvg-country="undefined" tvg-language="English" tvg-logo="" group-title="English Business",NDTV Profit
+https://ndtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/ndtv/live/ndtv_profit.smil/chunklist_w1438770647_b256000.m3u8
+
+#EXTINF:-1 tvg-id="27" tvg-name="NDTV Profit (480p)" tvg-country="undefined" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Profit.png" group-title="English Business",NDTV Profit (480p)
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8
+
+#EXTINF:-1 tvg-id="26" tvg-name="NDTV Profit (480p)" tvg-country="undefined" tvg-language="English" tvg-logo="https://i.imgur.com/pQ7nl12.png" group-title="English Business",NDTV Profit (480p)
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/ndtvprofitmaster.m3u8
+
+#EXTINF:-1 tvg-id="25" tvg-name="Nethra TV (480p)" tvg-country="undefined" tvg-language="Hindi" tvg-logo="http://srilankanews.wpengine.netdna-cdn.com/wp-content/uploads/2015/09/nethra.png" group-title="Hindi ",Nethra TV (480p)
+https://dammikartmp.tulix.tv/slrc3/slrc3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="24" tvg-name="News 18 Assam" tvg-country="undefined" tvg-language="" tvg-logo="" group-title="News",News 18 Assam
+https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_4_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="23" tvg-name="News 18 Bengali" tvg-country="undefined" tvg-language="" tvg-logo="" group-title="News",News 18 Bengali
+https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="22" tvg-name="News 18 Chhattisgarh" tvg-country="undefined" tvg-language="" tvg-logo="" group-title="News",News 18 Chhattisgarh
+https://news18mp-lh.akamaihd.net/i/n18mpcg_1@175737/index_4_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="21" tvg-name="News 18 Gujarati" tvg-country="undefined" tvg-language="" tvg-logo="" group-title="News",News 18 Gujarati
+https://news18gujarati-lh.akamaihd.net/i/n18gujarat_1@370955/index_4_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="20" tvg-name="News 18 Hindi" tvg-country="undefined" tvg-language="Hindi" tvg-logo="" group-title="Hindi News",News 18 Hindi
+https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_4_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="19" tvg-name="News 18 Jharkhand" tvg-country="undefined" tvg-language="" tvg-logo="" group-title="News",News 18 Jharkhand
+https://news18bihar-lh.akamaihd.net/i/n18biharjh_1@175736/index_4_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="18" tvg-name="News 18 Odia" tvg-country="undefined" tvg-language="" tvg-logo="" group-title="News",News 18 Odia
+https://etv-oriya.akamaized.net/i/n18odia_1@179753/index_4_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="17" tvg-name="News 18 Punjab" tvg-country="undefined" tvg-language="" tvg-logo="" group-title="News",News 18 Punjab
+https://news18haryana-lh.akamaihd.net/i/n18punjabhimhar_1@349009/index_4_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="16" tvg-name="News 18 Rajasthan" tvg-country="undefined" tvg-language="" tvg-logo="" group-title="News",News 18 Rajasthan
+https://news18rajasthan-lh.akamaihd.net/i/n18raj_1@175738/index_4_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="15" tvg-name="News 18 Urdu" tvg-country="undefined" tvg-language="" tvg-logo="" group-title="News",News 18 Urdu
+https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_4_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="14" tvg-name="News 18 Uttarakhand" tvg-country="undefined" tvg-language="" tvg-logo="" group-title="News",News 18 Uttarakhand
+https://news18up-lh.akamaihd.net/i/n18upuk_1@175735/index_4_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="13" tvg-name="News18 Assam" tvg-country="undefined" tvg-language="Hindi" tvg-logo="" group-title="Hindi News",News18 Assam
+https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-id="12" tvg-name="News18 India" tvg-country="undefined" tvg-language="Hindi" tvg-logo="" group-title="Hindi News",News18 India
+https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-id="11" tvg-name="News18 Lokmat" tvg-country="undefined" tvg-language="Hindi" tvg-logo="" group-title="Hindi News",News18 Lokmat
+https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-id="10" tvg-name="Prime Canada TV (720p)" tvg-country="undefined" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/PRIMECANADA.png" group-title="Hindi Entertainment",Prime Canada TV (720p)
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="Punjabi TV (720p)" tvg-country="undefined" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/PUNJABITVV.jpg" group-title="Hindi ",Punjabi TV (720p)
+http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="8" tvg-name="Sardari TV (1080p)" tvg-country="undefined" tvg-language="Hindi" tvg-logo="https://i.imgur.com/6Q844bs.jpg" group-title="Hindi ",Sardari TV (1080p)
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5" tvg-name="Shraddha (360p)" tvg-country="undefined" tvg-language="Hindi" tvg-logo="" group-title="Hindi ",Shraddha (360p)
+http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-name="Movie Sphere" tvg-country="undefined" tvg-language="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",Movie Sphere
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-name="Groovy TV" tvg-country="undefined" tvg-language="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Movie",Groovy TV
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="MINNAL FM" tvg-country="undefined" tvg-language="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Radio",MINNAL FM
+https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="7Star TV" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG80573.png" group-title="Tamil Cloud",7Star TV
+http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-name="Sana TV" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG35713.png" group-title="Tamil Cloud",Sana TV
+http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-name="3Tamil TV" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG43856.png" group-title="Tamil Cloud",3Tamil TV
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-name="Sharvesh 7Star TV" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG58756.png" group-title="Tamil Cloud",Sharvesh 7Star TV
+http://hdserver.7starcloud.com:1935/sharvesh/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6" tvg-name="CTN " tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG39297.png" group-title="Tamil Cloud",CTN 
+http://hdserver.7starcloud.com:1935/ctn/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="7" tvg-name="Polimer Channel" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG5530.png" group-title="Tamil Cloud",Polimer Channel
+http://hdserver.7starcloud.com:1935/polimer/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="8" tvg-name="SS Varma TV" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG99048.png" group-title="Tamil Cloud",SS Varma TV
+http://hdserver.7starcloud.com:1935/ssvarmatv/ssvarmatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="10" tvg-name="Jawahar TV" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG40848.png" group-title="Tamil Cloud",Jawahar TV
+http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
+
+#EXTINF:-1 tvg-id="11" tvg-name="SS TV" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG18653.png" group-title="Tamil Cloud",SS TV
+http://hdserver.7starcloud.com:1935/live/ss/playlist.m3u8
+
+#EXTINF:-1 tvg-id="12" tvg-name="Vani TV" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/" group-title="Tamil Cloud",Vani TV
+http://hdserver.7starcloud.com:1935/vanitv/livemedia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="13" tvg-name="Sana Plus" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG9905.png" group-title="Tamil Cloud",Sana Plus
+http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="14" tvg-name="Ashoka Channel" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG91933.png" group-title="Tamil Cloud",Ashoka Channel
+http://hdserver.7starcloud.com:1935/ashoka/channel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="15" tvg-name="Ashoka Channel 2" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG49043.png" group-title="Tamil Cloud",Ashoka Channel 2
+http://hdserver.7starcloud.com:1935/ashoka/channel2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="16" tvg-name="Shalini TV" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG32565.png" group-title="Tamil Cloud",Shalini TV
+https://gvjygr2jloem-hls-live.5centscdn.com/shalini/live.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="17" tvg-name="PCN CHANNEL" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/" group-title="Tamil Cloud",PCN CHANNEL
+http://103.98.62.134:8080/gtv/gtv.m3u8
+
+#EXTINF:-1 tvg-id="20" tvg-name="Shree TV" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG69533.png" group-title="Tamil Cloud",Shree TV
+http://hdserver.7starcloud.com:1935/shree/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="21" tvg-name="N TV" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/" group-title="Tamil Cloud",N TV
+http://7starcloud.com:1935/ntv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="22" tvg-name="MK Six" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG3523.png" group-title="Tamil Cloud",MK Six
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+
+#EXTINF:-1 tvg-id="23" tvg-name="CTN(Connor)" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/" group-title="Tamil Cloud",CTN(Connor)
+http://bmlive.net:8000/ctn/ctn/bms.m3u8
+
+#EXTINF:-1 tvg-id="24" tvg-name="Polimer TV" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG49462.png" group-title="Tamil Cloud",Polimer TV
+http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-id="25" tvg-name="Prakalya TV" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG11646.png" group-title="Tamil Cloud",Prakalya TV
+http://7starcloud.com:1935/pragalya/pragalyatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="26" tvg-name="SR MUSIX" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG53656.png" group-title="Tamil Cloud",SR MUSIX
+http://hdserver.7starcloud.com:1935/srmusix/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="27" tvg-name="Isai Saral" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG66916.png" group-title="Tamil Cloud",Isai Saral
+http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
+
+#EXTINF:-1 tvg-id="28" tvg-name="SS TV" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG26501.png" group-title="Tamil Cloud",SS TV
+http://7starcloud.com:1935/live/sstv2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="29" tvg-name="Sri Krishna TV" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG47835.png" group-title="Tamil Cloud",Sri Krishna TV
+http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="30" tvg-name="VAANAVIL TV" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG76890.png" group-title="Tamil Cloud",VAANAVIL TV
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="31" tvg-name="MSN TV" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG53779.png" group-title="Tamil Cloud",MSN TV
+http://media.7starcloud.com:1935/msntv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="32" tvg-name="Sri Krishna TV(T.kode)" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG74398.png" group-title="Tamil Cloud",Sri Krishna TV(T.kode)
+http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="33" tvg-name="News Plus TV" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG81454.png" group-title="Tamil Cloud",News Plus TV
+http://hdserver.7starcloud.com:1935/newsplus/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="34" tvg-name="DD PODHIGAI" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG26347.png" group-title="Tamil Cloud",DD PODHIGAI
+https://m-c15-j2apps.s.llnwi.net/hls/0250.DDPodhigai.in.m3u8
+
+#EXTINF:-1 tvg-id="35" tvg-name="RCN TV" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG18927.png" group-title="Tamil Cloud",RCN TV
+https://5c75277727cd1.streamlock.net:443/rcntv/rcntv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="37" tvg-name="Hari TV" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG31950.png" group-title="Tamil Cloud",Hari TV
+http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="38" tvg-name="Anuman TV" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/" group-title="Tamil Cloud",Anuman TV
+http://media.7starcloud.com:1935/harimedia/anumantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="39" tvg-name="Udhayam TV" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG36575.png" group-title="Tamil Cloud",Udhayam TV
+http://media.7starcloud.com:1935/harimedia/live3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="40" tvg-name="Surya TV" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG93380.png" group-title="Tamil Cloud",Surya TV
+http://media.7starcloud.com:1935/suryatv/mystream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="41" tvg-name="TUNES 6 MUSIC" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG37758.png" group-title="Tamil Cloud",TUNES 6 MUSIC
+https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in.m3u8
+
+#EXTINF:-1 tvg-id="43" tvg-name="SIVAN TV" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/" group-title="Tamil Cloud",SIVAN TV
+http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="IBC BAKTHI" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG67366.png" group-title="Tamil Cloud",IBC BAKTHI
+https://tx1.ibctamil.tv/CDN_IBC_Bhakthi/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="45" tvg-name="IBC SILUVAI" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/" group-title="Tamil Cloud",IBC SILUVAI
+https://tx1.ibctamil.tv/CDN_IBC_Siluvai/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="46" tvg-name="Imayam TV" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG54067.png" group-title="Tamil Cloud",Imayam TV
+https://idvd.multitvsolution.com/idvo/imayamtv_540p/index.m3u8
+
+#EXTINF:-1 tvg-id="47" tvg-name="Isai Aruvi" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG57807.png" group-title="Tamil Cloud",Isai Aruvi
+http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
+
+#EXTINF:-1 tvg-id="48" tvg-name="Moon TV" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG93564.png" group-title="Tamil Cloud",Moon TV
+https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8
+
+#EXTINF:-1 tvg-id="49" tvg-name="Vendhar TV" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG98289.png" group-title="Tamil Cloud",Vendhar TV
+https://m-c06-j2apps.s.llnwi.net/hls/7077.VendarTV.in_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="52" tvg-name="MaalaiMurasu TV" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG69759.png" group-title="Tamil Cloud",MaalaiMurasu TV
+https://m-c06-j2apps.s.llnwi.net/hls/7074.MalaiMurasuTV.in_360p/index.m3u8
+
+#EXTINF:-1 tvg-id="57" tvg-name="Thanthi TV" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG81475.png" group-title="Tamil Cloud",Thanthi TV
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="62" tvg-name="IBC CANADA" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG51760.png" group-title="Tamil Cloud",IBC CANADA
+https://tx1.ibctamil.tv/CDN_IBC_Canada/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="63" tvg-name="IBC TAMIL" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG43539.png" group-title="Tamil Cloud",IBC TAMIL
+https://tx1.ibctamil.tv/CDN_IBC_Tamil/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="65" tvg-name="IBC COMEDY" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG18482.png" group-title="Tamil Cloud",IBC COMEDY
+https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="66" tvg-name="DAN COMEDY" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/" group-title="Tamil Cloud",DAN COMEDY
+https://askmedia.livebox.co.in/DanComodyhls/9.m3u8
+
+#EXTINF:-1 tvg-id="67" tvg-name="IBC MUSIC" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG39050.png" group-title="Tamil Cloud",IBC MUSIC
+https://tx1.ibctamil.tv/CDN_IBC_Isai/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="68" tvg-name="TVI HD" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG40826.png" group-title="Tamil Cloud",TVI HD
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="69" tvg-name="SHAKTHI TV" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG49141.png" group-title="Tamil Cloud",SHAKTHI TV
+http://88.150.197.10:1935/star-live/shakthi/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="70" tvg-name="DAN NEWS" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG40000.png" group-title="Tamil Cloud",DAN NEWS
+https://askmedia.livebox.co.in/DanNewshls/3.m3u8
+
+#EXTINF:-1 tvg-id="71" tvg-name="DAN TAMILOLI" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG70178.png" group-title="Tamil Cloud",DAN TAMILOLI
+https://askmedia.livebox.co.in/DANTAMILOLIhls/1.m3u8
+
+#EXTINF:-1 tvg-id="73" tvg-name="KING TV" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/" group-title="Tamil Cloud",KING TV
+http://account26.livebox.co.in/kinghls/live.m3u8
+
+#EXTINF:-1 tvg-id="75" tvg-name="Vaanavil Plus" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG51065.png" group-title="Tamil Cloud",Vaanavil Plus
+https://server.iptelevision.in/hls/vanaviltv.m3u8
+
+#EXTINF:-1 tvg-id="76" tvg-name=" MK TV" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG36010.png" group-title="Tamil Cloud", MK TV
+http://14.199.164.20:4001/play/a0lh/index.m3u8
+
+#EXTINF:-1 tvg-id="77" tvg-name="PC TV" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/" group-title="Tamil Cloud",PC TV
+http://pctv.livebox.co.in/pctvhls/live.m3u8
+
+#EXTINF:-1 tvg-id="78" tvg-name="GTA TAMIL TV" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG96639.png" group-title="Tamil Cloud",GTA TAMIL TV
+http://142.44.213.115:8888/gta_tamil/index.m3u8
+
+#EXTINF:-1 tvg-id="79" tvg-name="Santhora Short Film" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/" group-title="Tamil Cloud",Santhora Short Film
+http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="80" tvg-name="EET TV" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG15109.png" group-title="Tamil Cloud",EET TV
+https://live.streamjo.com/eetlive/eettv.m3u8
+
+#EXTINF:-1 tvg-id="84" tvg-name="Thendral Tv" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1634099424_IMG_20211013_095844.jpg" group-title="Singam Cloud - PLC ",Thendral Tv
+https://iptelevision.in/hls/thendral.m3u8
+
+#EXTINF:-1 tvg-id="87" tvg-name="Vedha tv surandai" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1633974786_IMG_20211011_232252.jpg" group-title="Singam Cloud - PLC ",Vedha tv surandai
+http://conference1.livebox.co.in/vedhatvhls/live.m3u8
+
+#EXTINF:-1 tvg-id="88" tvg-name="Priya TV " tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1633954091_logo copy2.png" group-title="Singam Cloud - PLC ",Priya TV 
+http://live.singamcloud.in:1935/priyatv/priyatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="90" tvg-name="Eesan tv" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1632211736_Easan.png" group-title="Singam Cloud - PLC ",Eesan tv
+http://139.99.96.93:1935/eesantv/eesantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="91" tvg-name="Golden Gospel TV" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1625737733_golden.png" group-title="Singam Cloud - Religion Channel",Golden Gospel TV
+http://51.195.220.104/goldengospeltv/goldengospeltv/index.m3u8
+
+#EXTINF:-1 tvg-id="93" tvg-name="SINGAM TV" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616159247_icon.png" group-title="Singam Cloud - PLC ",SINGAM TV
+http://singamcloud.in/singamtv/singamtv/index.m3u8
+
+#EXTINF:-1 tvg-id="94" tvg-name="Kalai ISAI" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616232479_kalaiisai.png" group-title="Singam Cloud - Music",Kalai ISAI
+http://singamcloud.in/kalai/kalaiisai/index.m3u8
+
+#EXTINF:-1 tvg-id="98" tvg-name="Hari Tv" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616305845_hari tv.png" group-title="Singam Cloud - PLC ",Hari Tv
+http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="99" tvg-name="SMCV " tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616318924_smcv tv.png" group-title="Singam Cloud - PLC ",SMCV 
+http://singamcloud.in/smcvtv/smcvtv/index.m3u8
+
+#EXTINF:-1 tvg-id="100" tvg-name="Vani plus" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616319770_vani plus.png" group-title="Singam Cloud - PLC ",Vani plus
+http://live.singamcloud.in:1935/vanipluse/vanipluse/playlist.m3u8
+
+#EXTINF:-1 tvg-id="102" tvg-name="Kalvi Tv" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616305553_kalvi tv.png" group-title="Singam Cloud - Education",Kalvi Tv
+http://bmlive.net:8000/sstar/sevenstartvs/bms.m3u8
+
+#EXTINF:-1 tvg-id="106" tvg-name="IMAYAM TV" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1634213778_imyam.png" group-title="Singam Cloud - Satellite Channel",IMAYAM TV
+https://idvd.multitvsolution.com/idvo/imayamtv_360p/index.m3u8
+
+#EXTINF:-1 tvg-id="110" tvg-name="SS Varmaa TV" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1618312581_ss varma tv.png" group-title="Singam Cloud - PLC ",SS Varmaa TV
+http://hdserver.7starcloud.com:1935/ssvarmatv/ssvarmatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="118" tvg-name="DD SPORTS" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616435679_DD sports.png" group-title="Singam Cloud - Sports",DD SPORTS
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+
+#EXTINF:-1 tvg-id="120" tvg-name="MAKKAL TV" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616435365_makkal tv.png" group-title="Singam Cloud - Satellite Channel",MAKKAL TV
+https://m-c18-j2apps.s.llnwi.net/hls/0211.MakkalTV.in_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="121" tvg-name="DD Podhigai" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616435259_DD pothigai.png" group-title="Singam Cloud - Satellite Channel",DD Podhigai
+https://m-c15-j2apps.s.llnwi.net/hls/0250.DDPodhigai.in_360p/index.m3u8
+
+#EXTINF:-1 tvg-id="122" tvg-name="Vasanth TV" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616435151_vasanth.png" group-title="Singam Cloud - Satellite Channel",Vasanth TV
+http://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f
+
+#EXTINF:-1 tvg-id="123" tvg-name="Puthuyugam TV" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616435069_puthugam.png" group-title="Singam Cloud - Satellite Channel",Puthuyugam TV
+http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
+
+#EXTINF:-1 tvg-id="125" tvg-name="Tamilan" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616434820_tamilan.png" group-title="Singam Cloud - Satellite Channel",Tamilan
+http://media.akamaicdn.us:1935/tamilan/tamilan/playlist.m3u8
+
+#EXTINF:-1 tvg-id="127" tvg-name="Kalaignar Murasu" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616434316_murasu mus.png" group-title="Singam Cloud - Satellite Channel",Kalaignar Murasu
+http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/index.m3u8
+
+#EXTINF:-1 tvg-id="128" tvg-name="Aasirvadham TV" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616434072_asirvatham.png" group-title="Singam Cloud - Religion Channel",Aasirvadham TV
+http://199.168.96.106:1935/blessingtv-tamillive/mystream/chunklist_w365086533.m3u8
+
+#EXTINF:-1 tvg-id="129" tvg-name="Madha TV" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616433934_madha.png" group-title="Singam Cloud - Religion Channel",Madha TV
+http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w67072347.m3u8
+
+#EXTINF:-1 tvg-id="130" tvg-name="TUNE 6" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616433820_tune 6.png" group-title="Singam Cloud - Music",TUNE 6
+https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in.m3u8
+
+#EXTINF:-1 tvg-id="131" tvg-name="VENDHAR TV" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616433745_venthar.png" group-title="Singam Cloud - Satellite Channel",VENDHAR TV
+https://m-c06-j2apps.s.llnwi.net/hls/7077.VendarTV.in_288p/index.m3u8
+
+#EXTINF:-1 tvg-id="133" tvg-name="ISAIARUVI" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616433340_isaiaruvi.png" group-title="Singam Cloud - Music",ISAIARUVI
+http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
+
+#EXTINF:-1 tvg-id="134" tvg-name="Velicham TV" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616433167_velucham copy.png" group-title="Singam Cloud - News",Velicham TV
+https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="136" tvg-name="Akaram Kidz" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616432805_akkaram kids.png" group-title="Singam Cloud - KIDS Channel",Akaram Kidz
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+
+#EXTINF:-1 tvg-id="137" tvg-name="Moon TV" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616432667_moon.png" group-title="Singam Cloud - Satellite Channel",Moon TV
+http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-id="139" tvg-name="Erode Krishna " tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616432443_erode.png" group-title="Singam Cloud - PLC ",Erode Krishna 
+http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="140" tvg-name="MK TV" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616432125_mk tv.png" group-title="Singam Cloud - Satellite Channel",MK TV
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
+
+#EXTINF:-1 tvg-id="141" tvg-name="MK SIX" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616432007_mk six.png" group-title="Singam Cloud - Satellite Channel",MK SIX
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+
+#EXTINF:-1 tvg-id="144" tvg-name="IBC Siluvai" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616431568_IBC siluvai.png" group-title="Singam Cloud - Religion Channel",IBC Siluvai
+https://tx1.ibctamil.tv/CDN_IBC_Siluvai/index.m3u8
+
+#EXTINF:-1 tvg-id="145" tvg-name="IBC ISAI" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616431447_IBC isai.png" group-title="Singam Cloud - Music",IBC ISAI
+https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8
+
+#EXTINF:-1 tvg-id="146" tvg-name="IBC Bakthi" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616431352_IBC paki.png" group-title="Singam Cloud - Religion Channel",IBC Bakthi
+https://tx1.ibctamil.tv/CDN_IBC_Bhakthi/index.m3u8
+
+#EXTINF:-1 tvg-id="150" tvg-name="MSN TV" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616429873_msn tv.png" group-title="Singam Cloud - PLC ",MSN TV
+http://media.7starcloud.com:1935/msntv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="152" tvg-name="Tamil Star TV" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1628861175_IMG_20210813_185357.jpg" group-title="Singam Cloud - PLC ",Tamil Star TV
+http://stream.singamcloud.in/tamilstartv/tamilstartv/index.m3u8
+
+#EXTINF:-1 tvg-id="154" tvg-name="KRP TV" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616333373_kpr tv.png" group-title="Singam Cloud - PLC ",KRP TV
+http://live.singamcloud.in:1935/krptv/krptv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="155" tvg-name="Jawahar" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616333123_jagaver.png" group-title="Singam Cloud - PLC ",Jawahar
+http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
+
+#EXTINF:-1 tvg-id="159" tvg-name="Maa TV" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616321908_maa tv copy.png" group-title="Singam Cloud - PLC ",Maa TV
+http://live.singamcloud.in:1935/maatv/maatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="163" tvg-name="Hello TV" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616321019_hello tv.png" group-title="Singam Cloud - PLC ",Hello TV
+http://stream.singamcloud.in/hellotv/hellotv/index.m3u8
+
+#EXTINF:-1 tvg-id="164" tvg-name="Anu TV" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616320869_anu tv.png" group-title="Singam Cloud - PLC ",Anu TV
+http://live.singamcloud.in:1935/anutv/anutv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="172" tvg-name="Purple " tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616318402_perpole.png" group-title="Singam Cloud - PLC ",Purple 
+http://singamcloud.in/purpletv/purpletv/index.m3u8
+
+#EXTINF:-1 tvg-id="173" tvg-name="T TV" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616318214_ttv.png" group-title="Singam Cloud - PLC ",T TV
+http://singamcloud.in/ttv/ttv/index.m3u8
+
+#EXTINF:-1 tvg-id="176" tvg-name="sathiyam News" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616312705_sathiyam tv.png" group-title="Singam Cloud - News",sathiyam News
+http://hdserver.7starcloud.com:1935/sathiyamtv/livestreaming/playlist.m3u8
+
+#EXTINF:-1 tvg-id="179" tvg-name="Thanthi TV " tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616307129_thanthi tv.png" group-title="Singam Cloud - News",Thanthi TV 
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="180" tvg-name="Yogaa TV" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616306258_yogaa tv.png" group-title="Singam Cloud - PLC ",Yogaa TV
+http://hdserver.singamcloud.in:1935/yogaatv/yogaatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="181" tvg-name="NEWS18 TAMILNADU" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616305063_news18 tamilnadu.png" group-title="Singam Cloud - News",NEWS18 TAMILNADU
+http://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="185" tvg-name="Kalvi Cholai " tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616305642_kalvi solai.png" group-title="Singam Cloud - Education",Kalvi Cholai 
+http://nextgeninfotech.ddns.net:8080/kalvisolai/kalvisolai.m3u8
+
+#EXTINF:-1 tvg-id="187" tvg-name="Jayam Tv Madurai " tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616306017_jayam tv.png" group-title="Singam Cloud - PLC ",Jayam Tv Madurai 
+http://bmlive.net:8000/jeyamtvhd/jeyamtv/bms.m3u8
+
+#EXTINF:-1 tvg-id="191" tvg-name="Rasi Music" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616232914_rasi music.png" group-title="Singam Cloud - RASI NETWORK",Rasi Music
+http://singamcloud.in/rasinetworks/rasimusic/index.m3u8
+
+#EXTINF:-1 tvg-id="197" tvg-name="TCV" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1622645536_IMG_20210602_201956.jpg" group-title="Singam Cloud - Malayalam Channel",TCV
+https://stream.ufworldind.in/tcv/tcv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="198" tvg-name="Chithiram TV" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1622638376_chithiram.png" group-title="Singam Cloud - Satellite Channel",Chithiram TV
+http://103.199.161.254/Content/kalaignarchittiram/Live/Channel(KalaignarChittiram)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-id="200" tvg-name="MY TV" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1622638282_mytv.png" group-title="Singam Cloud - Malayalam Channel",MY TV
+http://bmlive.net:8000/mytvkl/mytvkl/bms.m3u8
+
+#EXTINF:-1 tvg-id="201" tvg-name="News 18 Malayalam" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1622638042_news18.png" group-title="Singam Cloud - Malayalam Channel",News 18 Malayalam
+https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="202" tvg-name="Kaumudy" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1622286807_Kaumudy TV.png" group-title="Singam Cloud - Malayalam Channel",Kaumudy
+http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
+
+#EXTINF:-1 tvg-id="203" tvg-name="Kappa TV" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1622286601_kappa.png" group-title="Singam Cloud - Malayalam Channel",Kappa TV
+http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
+
+#EXTINF:-1 tvg-id="204" tvg-name="MK Tunes" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1622286272_mktus.png" group-title="Singam Cloud - Music",MK Tunes
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+
+#EXTINF:-1 tvg-id="205" tvg-name="Manorama News" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1622285815_mano.png" group-title="Singam Cloud - Malayalam Channel",Manorama News
+http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
+
+#EXTINF:-1 tvg-id="206" tvg-name="Kairali" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1622285594_Kairali.png" group-title="Singam Cloud - Malayalam Channel",Kairali
+http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-id="207" tvg-name="Jaihind TV" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1622285476_Jaihind TV.png" group-title="Singam Cloud - Malayalam Channel",Jaihind TV
+http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
+
+#EXTINF:-1 tvg-id="208" tvg-name="Flowers TV" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1622285264_Flowers TV.png" group-title="Singam Cloud - Malayalam Channel",Flowers TV
+http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
+
+#EXTINF:-1 tvg-id="209" tvg-name="DD Malayalam" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1622285110_DD malayam.png" group-title="Singam Cloud - Malayalam Channel",DD Malayalam
+http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
+
+#EXTINF:-1 tvg-id="210" tvg-name="Nvision" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1622284783_Nvision.png" group-title="Singam Cloud - Malayalam Channel",Nvision
+http://live.singamcloud.in:1935/nvision/nvision/playlist.m3u8
+
+#EXTINF:-1 tvg-id="211" tvg-name="Jeevan tv" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1622284673_janam tv copy.png" group-title="Singam Cloud - Malayalam Channel",Jeevan tv
+http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
+
+#EXTINF:-1 tvg-id="212" tvg-name="Amrita TV" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1622284492_Amrita TV.png" group-title="Singam Cloud - Malayalam Channel",Amrita TV
+http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
+
+#EXTINF:-1 tvg-id="213" tvg-name="Asianet NEWS" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1622284368_ASINET.png" group-title="Singam Cloud - Malayalam Channel",Asianet NEWS
+http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
+
+#EXTINF:-1 tvg-id="214" tvg-name="janam tv" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1622284191_janam tv copy.png" group-title="Singam Cloud - Malayalam Channel",janam tv
+https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live2/chunks.m3u8
+
+#EXTINF:-1 tvg-id="215" tvg-name="Nambikkai TV" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1622283345_nambikkai.png" group-title="Singam Cloud - Religion Channel",Nambikkai TV
+https://m-c08-j2apps.s.llnwi.net/hls/4154.NambikkaiTV.in_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="216" tvg-name="SVBC 2 TAMIL" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1622283168_SVBC 2.png" group-title="Singam Cloud - Religion Channel",SVBC 2 TAMIL
+https://m-c049-j2apps.s.llnwi.net/hls/5331.SVBC2.in_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="217" tvg-name="Swasthik TV" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1622282980_swasthik.png" group-title="Singam Cloud - Religion Channel",Swasthik TV
+http://swasthiktv.chennaistream.net/swasthiktv/swasthiktvlive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="219" tvg-name="Sivan tv" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1622282410_sivan tv.png" group-title="Singam Cloud - Religion Channel",Sivan tv
+http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
+
+#EXTINF:-1 tvg-id="220" tvg-name="Life TV Plus" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1622282311_life tv.png" group-title="Singam Cloud - Religion Channel",Life TV Plus
+http://lifetv.livebox.co.in/lifetvtamilhls/live.m3u8
+
+#EXTINF:-1 tvg-id="221" tvg-name="Polimer Tv" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1622225613_IMG_20210528_234254.jpg" group-title="Singam Cloud - Satellite Channel",Polimer Tv
+http://103.199.160.85:80/Content/polimer/Live/Channel(Polimer)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-id="235" tvg-name="M Music" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1622176344_mmusic.png" group-title="Singam Cloud - Music",M Music
+https://mntv.livebox.co.in/musichls/live.m3u8
+
+#EXTINF:-1 tvg-id="247" tvg-name="Mk six " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/images - 2020-09-08T181616.543.jpeg" group-title="NOTV",Mk six 
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+
+#EXTINF:-1 tvg-id="249" tvg-name="Family tv " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20210528-WA0001.jpg" group-title="NOTV",Family tv 
+https://jctvapp.lanevservices.in/jcfcapp/jctvlive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="251" tvg-name="Kalvi cholai tv" tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20200810-WA0031.jpg" group-title="NOTV",Kalvi cholai tv
+http://nextgeninfotech.ddns.net:8080/kalvisolai/kalvisolai.m3u8
+
+#EXTINF:-1 tvg-id="254" tvg-name="KMD TV " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20220318-WA0002.jpg" group-title="NOTV",KMD TV 
+http://account2.livebox.co.in/IMAGESEQUENCEhls/live.m3u8
+
+#EXTINF:-1 tvg-id="256" tvg-name="Mk tv " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/images (30).png" group-title="NOTV",Mk tv 
+http://103.199.160.85:80/Content/mktv/Live/Channel(MKTV)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-id="257" tvg-name="Shivan tv " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20191110-WA0045.jpg" group-title="NOTV",Shivan tv 
+http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
+
+#EXTINF:-1 tvg-id="258" tvg-name="Life tv " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/images (6).jpeg" group-title="NOTV",Life tv 
+http://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8
+
+#EXTINF:-1 tvg-id="270" tvg-name="WAY TV " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20210409-WA0017.jpg" group-title="NOTV",WAY TV 
+http://waytv.livebox.co.in/waytvhls/waytv.m3u8
+
+#EXTINF:-1 tvg-id="271" tvg-name="NTV LIVE " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/01_00007_01499.png" group-title="NOTV",NTV LIVE 
+https://server3.iptelevision.in/hls/ntv.m3u8
+
+#EXTINF:-1 tvg-id="272" tvg-name="Three tamil" tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/images - 2020-09-08T133529.542.jpeg" group-title="NOTV",Three tamil
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="273" tvg-name="Faith tv " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20200909-WA0076.jpg" group-title="NOTV",Faith tv 
+http://faithtvlive.livebox.co.in/faithtvhls/live.m3u8
+
+#EXTINF:-1 tvg-id="276" tvg-name="Sathiyam news " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20200908-WA0103.jpg" group-title="NOTV",Sathiyam news 
+http://hdserver.7starcloud.com:1935/sathiyamtv/livestreaming/playlist.m3u8
+
+#EXTINF:-1 tvg-id="277" tvg-name="Thirumalai tv" tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/unnamed (9).png" group-title="NOTV",Thirumalai tv
+http://media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="281" tvg-name="Palaru tv " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/Logo Bg_00000.png" group-title="NOTV",Palaru tv 
+http://account13.livebox.co.in/palartvhls/live.m3u8
+
+#EXTINF:-1 tvg-id="284" tvg-name="Jay tv " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/" group-title="NOTV",Jay tv 
+http://8kguru.tv:8081/rudhramtv1/tvhd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="288" tvg-name="Lifetv plus " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/life tv plus india.png" group-title="NOTV",Lifetv plus 
+http://lifetv.livebox.co.in/lifetvtamilhls/live.m3u8
+
+#EXTINF:-1 tvg-id="289" tvg-name="Jawahar tv " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20200218-WA0113.jpg" group-title="NOTV",Jawahar tv 
+http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
+
+#EXTINF:-1 tvg-id="290" tvg-name="TVI " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/images - 2020-09-09T075805.305.jpeg" group-title="NOTV",TVI 
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="291" tvg-name="Joy tv " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20201207-WA0003.jpg" group-title="NOTV",Joy tv 
+http://joytv.livebox.co.in/joytvhls/live.m3u8
+
+#EXTINF:-1 tvg-id="293" tvg-name="Akaram kids " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/images (66).jpeg" group-title="NOTV",Akaram kids 
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+
+#EXTINF:-1 tvg-id="309" tvg-name="Metro tv " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/51403794_2375690232670745_1233277456496984064_o.jpg" group-title="NOTV",Metro tv 
+http://softstreamtv.com:8080/NOTV/METROTV/index.m3u8?token=GTR
+
+#EXTINF:-1 tvg-id="314" tvg-name="King tv  covai" tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20201031-WA0003.jpg" group-title="NOTV",King tv  covai
+https://account26.livebox.co.in/kinghls/live.m3u8
+
+#EXTINF:-1 tvg-id="315" tvg-name="Hari tv " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/logo (3).png" group-title="NOTV",Hari tv 
+http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="316" tvg-name="Tamilan tv " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/Screenshot_20200908-234711~2.png" group-title="NOTV",Tamilan tv 
+http://media.7starcloud.com:1935/harimedia/live1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="319" tvg-name="Krishna tv" tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/download (6).png" group-title="NOTV",Krishna tv
+http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="320" tvg-name="Spice tv " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20210706-WA0019.jpg" group-title="NOTV",Spice tv 
+https://iptelevision.in/hls/spicetv.m3u8
+
+#EXTINF:-1 tvg-id="322" tvg-name="KL MY TV" tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20210324-WA0002.jpg" group-title="NOTV",KL MY TV
+http://bmlive.net:8000/mytvkl/mytvkl/bms.m3u8
+
+#EXTINF:-1 tvg-id="327" tvg-name="Pc tv " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20200909-WA0016.jpg" group-title="NOTV",Pc tv 
+http://pctv.livebox.co.in/pctvhls/live.m3u8
+
+#EXTINF:-1 tvg-id="328" tvg-name="JEYAM TV" tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20210508-WA0025.jpg" group-title="NOTV",JEYAM TV
+http://198.144.149.82:8080/NOTV/JEYAMTVCOVAI/index.m3u8?token=GTR
+
+#EXTINF:-1 tvg-id="329" tvg-name="QTV " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20211111-WA0038.jpg" group-title="NOTV",QTV 
+http://198.144.149.82:8080/NOTV/QTV/index.m3u8?token=GTR
+
+#EXTINF:-1 tvg-id="330" tvg-name="N TV" tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/01_00007_01499.png" group-title="NOTV",N TV
+https://server3.iptelevision.in/hls/ntv.m3u8
+
+#EXTINF:-1 tvg-id="331" tvg-name="MM CLASSIC " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20211111-WA0008.jpg" group-title="NOTV",MM CLASSIC 
+http://198.144.149.82:8080/NOTV/MMCLASSIC/index.m3u8?token=GTR
+
+#EXTINF:-1 tvg-id="332" tvg-name="MM TV " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20211025-WA0008.jpg" group-title="NOTV",MM TV 
+http://198.144.149.82:8080/NOTV/MMTV/index.m3u8?token=GTR
+
+#EXTINF:-1 tvg-id="333" tvg-name="Kankaru tv " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/Kangaru_TV_Logo_3.png" group-title="NOTV",Kankaru tv 
+http://198.144.149.82:8080/NOTV/KANGARUTV/index.m3u8?token=GTR
+
+#EXTINF:-1 tvg-id="334" tvg-name="Jayam tv " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20200909-WA0039.jpg" group-title="NOTV",Jayam tv 
+http://bmlive.net:8000/jeyamtvhd/jeyamtv/bms.m3u8
+
+#EXTINF:-1 tvg-id="336" tvg-name="Vani tv " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20210501-WA0014.jpg" group-title="NOTV",Vani tv 
+http://hdserver.7starcloud.com:1935/vanitv/livemedia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="337" tvg-name="ANANDHA TV " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/Anandha 4k_00031.png" group-title="NOTV",ANANDHA TV 
+http://198.144.149.82:8080/NOTV/ANANDHATV/index.m3u8?token=GTR
+
+#EXTINF:-1 tvg-id="339" tvg-name="Kanchi tv " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/unnamed (13).png" group-title="NOTV",Kanchi tv 
+http://198.144.149.82:8080/NOTV/KANCHITV/index.m3u8?token=GTR
+
+#EXTINF:-1 tvg-id="340" tvg-name="Shalini tv" tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20210615-WA0018.jpg" group-title="NOTV",Shalini tv
+http://198.144.149.82:8080/NOTV/SHALINITV/index.m3u8?token=GTR
+
+#EXTINF:-1 tvg-id="341" tvg-name="VTamil" tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20201025-WA0016.jpg" group-title="NOTV",VTamil
+http://softstreamtv.com:8080/NOTV/VTAMILTV/index.m3u8?token=GTR
+
+#EXTINF:-1 tvg-id="342" tvg-name="Ragam tv " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/images - 2020-09-24T110432.747.jpeg" group-title="NOTV",Ragam tv 
+http://account12.livebox.co.in/ntvhls/ntv.m3u8
+
+#EXTINF:-1 tvg-id="343" tvg-name="KANCHI MEDIA " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/kanchi kalnchiyam_00036.png" group-title="NOTV",KANCHI MEDIA 
+http://198.144.149.82:8080/NOTV/KANCHIMEDIA/index.m3u8?token=GTR
+
+#EXTINF:-1 tvg-id="344" tvg-name="Vedha tv kanchi " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/Photo from Media" group-title="NOTV",Vedha tv kanchi 
+http://198.144.149.82:8080/NOTV/VEDHAKANCHI/index.m3u8?token=GTR
+
+#EXTINF:-1 tvg-id="345" tvg-name="MM TV" tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/MMTV_00000.png" group-title="NOTV",MM TV
+http://198.144.149.82:8080/NOTV/MMTVKANCHI/index.m3u8?token=GTR
+
+#EXTINF:-1 tvg-id="346" tvg-name="Jeyson tv " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/Comp JEYSON.png" group-title="NOTV",Jeyson tv 
+http://bmlive.net:8000/orange/jeysontv/bms.m3u8
+
+#EXTINF:-1 tvg-id="347" tvg-name="Utv " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20201225-WA0345.jpg" group-title="NOTV",Utv 
+http://198.144.149.82:8080/NOTV/UTV/index.m3u8?token=GTR
+
+#EXTINF:-1 tvg-id="348" tvg-name="Jeyam tv " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/Re size JEYAM PLUS Logo.png" group-title="NOTV",Jeyam tv 
+http://198.144.149.82:8080/NOTV/JEYAMTVPLUS/index.m3u8?token=GTR
+
+#EXTINF:-1 tvg-id="349" tvg-name="Laxmi tv " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20201006-WA0000.jpg" group-title="NOTV",Laxmi tv 
+http://198.144.149.82:8080/NOTV/LAXMITV/index.m3u8?token=GTR
+
+#EXTINF:-1 tvg-id="353" tvg-name="JJ max tv " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/JJ Max HD Logo_00017.png" group-title="NOTV",JJ max tv 
+http://bmlive.net:8000/orange/jjmax/bms.m3u8
+
+#EXTINF:-1 tvg-id="354" tvg-name="Jayam tv " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20201013-WA0058.jpg" group-title="NOTV",Jayam tv 
+http://198.144.149.82:8080/NOTV/JAYAMTV/index.m3u8?token=GTR
+
+#EXTINF:-1 tvg-id="357" tvg-name="SSS TV " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20210615-WA0001.jpg" group-title="NOTV",SSS TV 
+http://198.144.149.82:8080/NOTV/SSSTV/index.m3u8?token=GTR
+
+#EXTINF:-1 tvg-id="358" tvg-name="Thendral tv " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/LOGO TH.png" group-title="NOTV",Thendral tv 
+https://iptelevision.in/hls/thendral.m3u8
+
+#EXTINF:-1 tvg-id="359" tvg-name="Annai tv " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/" group-title="NOTV",Annai tv 
+http://softstreamtv.com:8080/NOTV/ANNAITV/index.m3u8?token=GTR
+
+#EXTINF:-1 tvg-id="363" tvg-name="Jeevan tv " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/jeevan tv logo png.png" group-title="NOTV",Jeevan tv 
+http://198.144.149.82:8080/NOTV/JEEVANTV/index.m3u8?token=GTR
+
+#EXTINF:-1 tvg-id="368" tvg-name="N TV " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/Ntv.jpg" group-title="NOTV",N TV 
+   http://198.144.149.82:8080/NOTV/NTV/index.m3u8?token=GTR
+
+#EXTINF:-1 tvg-id="369" tvg-name="KRISHANA TV " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20211111-WA0007.jpg" group-title="NOTV",KRISHANA TV 
+http://198.144.149.82:8080/NOTV/KRISHNATV/index.m3u8?token=GTR
+
+#EXTINF:-1 tvg-id="370" tvg-name="QMAX TV TVR" tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/ssssssssss copy.png" group-title="NOTV",QMAX TV TVR
+http://198.144.149.82:8080/NOTV/QMAX/index.m3u8?token=GTR
+
+#EXTINF:-1 tvg-id="374" tvg-name="Acn cinema " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/" group-title="NOTV",Acn cinema 
+http://198.144.149.82:8080/AMMA/ACNCINEMA/index.m3u8?token=AMMA
+
+#EXTINF:-1 tvg-id="375" tvg-name="Arasan tv " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/" group-title="NOTV",Arasan tv 
+http://198.144.149.82:8080/AMMA/ARASANTV/index.m3u8?token=AMMA
+
+#EXTINF:-1 tvg-id="376" tvg-name="Amma channel " tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/" group-title="NOTV",Amma channel 
+http://198.144.149.82:8080/AMMA/AMMACHANNEL/index.m3u8?token=AMMA
+
+#EXTINF:-1 tvg-id="380" tvg-name="Ladhee TV" tvg-country="undefined" tvg-language="" tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/125.png" group-title="Poovarasan - Malayalam",Ladhee TV
+http://bmlive.net:8000/ladheetv/ladheetv/bms.m3u8
+
+#EXTINF:-1 tvg-id="382" tvg-name="Kalvi Channel" tvg-country="undefined" tvg-language="" tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1620121482_dan-004.jpg" group-title="Poovarasan - Education",Kalvi Channel
+https://askmedia.livebox.co.in/KalviTVhls/5.m3u8
+
+#EXTINF:-1 tvg-id="383" tvg-name="Marutham Music" tvg-country="undefined" tvg-language="" tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1621431616_images.jpg" group-title="Poovarasan - Music",Marutham Music
+https://mntv.livebox.co.in/musichls/live.m3u8
+
+#EXTINF:-1 tvg-id="387" tvg-name="Akaram Kidz" tvg-country="undefined" tvg-language="" tvg-logo="https://i.imgur.com/hAgaVPa.jpg" group-title="Poovarasan - Kids",Akaram Kidz
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+
+#EXTINF:-1 tvg-id="388" tvg-name="Blessings TV" tvg-country="undefined" tvg-language="" tvg-logo="http://jenohdtv.gq/wp-content/uploads/2019/11/Aaseervatham-TV.png" group-title="Poovarasan - Devotional",Blessings TV
+http://199.168.96.106:1935/blessingtv-tamillive/mystream/chunklist_w794457741.m3u8
+
+#EXTINF:-1 tvg-id="389" tvg-name="DD Sports" tvg-country="undefined" tvg-language="" tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1603524158_1598791651_DD Sportscopy.jpg" group-title="Poovarasan - Sports",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-id="391" tvg-name="Kalaignar" tvg-country="undefined" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg" group-title="Poovarasan - Entertainment",Kalaignar
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+
+#EXTINF:-1 tvg-id="393" tvg-name="Krubai TV" tvg-country="undefined" tvg-language="" tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/161.png" group-title="Poovarasan - Religious",Krubai TV
+http://bmlive.net:8000/kirubaitv/kirubaitv/bms.m3u8
+
+#EXTINF:-1 tvg-id="394" tvg-name="KL My TV" tvg-country="undefined" tvg-language="" tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/90.png" group-title="Poovarasan - Malayalam",KL My TV
+http://bmlive.net:8000/mytvtn/mytv/bms.m3u8
+
+#EXTINF:-1 tvg-id="396" tvg-name="M Music" tvg-country="undefined" tvg-language="" tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622176344_mmusic.png" group-title="Poovarasan - Music",M Music
+https://mntv.livebox.co.in/musichls/live.m3u8
+
+#EXTINF:-1 tvg-id="404" tvg-name="SMYRNA TV" tvg-country="undefined" tvg-language="" tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/110.png" group-title="Poovarasan - Religious",SMYRNA TV
+http://bmlive.net:8000/smyrnatv/smyrnatv/bms.m3u8
+
+#EXTINF:-1 tvg-id="405" tvg-name="KCV TV" tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20201211-WA0007.jpg" group-title="Poovarasan - Malayalam",KCV TV
+http://198.144.149.82:8080/NOTV/KCVTV/index.m3u8?token=GTR
+
+#EXTINF:-1 tvg-id="412" tvg-name="Sivan TV" tvg-country="undefined" tvg-language="" tvg-logo="http://jenohdtv.gq/wp-content/uploads/2019/11/Sivan-TV.png" group-title="Poovarasan - Devotional",Sivan TV
+http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
+
+#EXTINF:-1 tvg-id="415" tvg-name="JeevaOli TV" tvg-country="undefined" tvg-language="" tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/jeevaoli.webp" group-title="Poovarasan - Religious",JeevaOli TV
+http://jaeppiyar.livebox.co.in/jeevaolitvhls/live.m3u8
+
+#EXTINF:-1 tvg-id="416" tvg-name="Tamilan" tvg-country="undefined" tvg-language="" tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616434820_tamilan.png" group-title="Poovarasan - Entertainment",Tamilan
+http://media.akamaicdn.us:1935/tamilan/tamilan/playlist.m3u8
+
+#EXTINF:-1 tvg-id="417" tvg-name="IBC Music" tvg-country="undefined" tvg-language="" tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616431447_IBCisai.png" group-title="Poovarasan - Music",IBC Music
+https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8
+
+#EXTINF:-1 tvg-id="419" tvg-name="Chithiram TV" tvg-country="undefined" tvg-language="" tvg-logo="http://jenohdtv.gq/wp-content/uploads/2019/11/Chithiram-TV.png" group-title="Poovarasan - Movies",Chithiram TV
+http://103.199.161.254/Content/kalaignarchittiram/Live/Channel(KalaignarChittiram)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-id="422" tvg-name="Sri Sankara TV" tvg-country="undefined" tvg-language="" tvg-logo="http://jenohdtv.gq/wp-content/uploads/2019/11/Sri-Sankara-TV.png" group-title="Poovarasan - Devotional",Sri Sankara TV
+https://8noro432dm6g-hls-live.wmncdn.net/Sri/a5518065f47332dad6b509920c827474.sdp/index.m3u8
+
+#EXTINF:-1 tvg-id="429" tvg-name="Java Movie" tvg-country="undefined" tvg-language="" tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622895526_jayatv.png" group-title="Poovarasan - Movies",Java Movie
+https://catchup.yuppcdn.net/amazonv2/20/preview/jayamovies/master/master.m3u8
+
+#EXTINF:-1 tvg-id="431" tvg-name="SVBC Tamil" tvg-country="undefined" tvg-language="" tvg-logo="http://jenohdtv.gq/wp-content/uploads/2019/11/SVBC-Tamil.png" group-title="Poovarasan - Devotional",SVBC Tamil
+http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8
+
+#EXTINF:-1 tvg-id="433" tvg-name="Vinmeen TV" tvg-country="undefined" tvg-language="" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnlhYWwuVmlubWVlbk11c2ljX3NjcmVlbl81XzE1NzgxNjMyMTZfMDU0/screen-5.jpg?fakeurl=1&type=.jpg" group-title="Poovarasan - Religious",Vinmeen TV
+http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
+
+#EXTINF:-1 tvg-id="436" tvg-name="Santhora Short Flim" tvg-country="undefined" tvg-language="" tvg-logo="https://i.imgur.com/kKFfLMd.jpg" group-title="Poovarasan - Movies",Santhora Short Flim
+http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="441" tvg-name="3 Tamil TV" tvg-country="undefined" tvg-language="" tvg-logo="https://i.imgur.com/WfAU7pB.png" group-title="Poovarasan - Entertainment",3 Tamil TV
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+
+#EXTINF:-1 tvg-id="442" tvg-name="SR MUSIX" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG53656.png" group-title="Poovarasan - Music",SR MUSIX
+http://hdserver.7starcloud.com:1935/srmusix/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="446" tvg-name="Laxmi Tv" tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20201006-WA0000.jpg" group-title="Poovarasan - Religious",Laxmi Tv
+http://198.144.149.82:8080/NOTV/LAXMITV/index.m3u8?token=GTR
+
+#EXTINF:-1 tvg-id="447" tvg-name="7Star TV" tvg-country="undefined" tvg-language="" tvg-logo="https://i.imgur.com/EaHWWNl.jpg" group-title="Poovarasan - Entertainment",7Star TV
+http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="448" tvg-name="7S Music" tvg-country="undefined" tvg-language="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/7s_music.png" group-title="Poovarasan - Music",7S Music
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+
+#EXTINF:-1 tvg-id="452" tvg-name="Life Tv" tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/images (6).jpeg" group-title="Poovarasan - Religious",Life Tv
+http://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8
+
+#EXTINF:-1 tvg-id="458" tvg-name="Life Tv Plus" tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/life tv plus india.png" group-title="Poovarasan - Religious",Life Tv Plus
+http://lifetv.livebox.co.in/lifetvtamilhls/live.m3u8
+
+#EXTINF:-1 tvg-id="462" tvg-name="NDTV" tvg-country="undefined" tvg-language="" tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1603524142_1598792353_NDTVcopy.jpg" group-title="Poovarasan - News",NDTV
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+
+#EXTINF:-1 tvg-id="464" tvg-name="Sivan TV" tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20191110-WA0045.jpg" group-title="Poovarasan - Religious",Sivan TV
+http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
+
+#EXTINF:-1 tvg-id="468" tvg-name="News 18 TAMIL" tvg-country="undefined" tvg-language="" tvg-logo="https://static.tamil.news18.com/tamil/uploads/2020/03/tamil-1.png" group-title="Poovarasan - News",News 18 TAMIL
+https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-id="475" tvg-name="THOPHONY TV" tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20210108-WA0020.jpg" group-title="Poovarasan - Religious",THOPHONY TV
+http://198.144.149.82:8080/NOTV/THOPHONYTV/index.m3u8?token=GTR
+
+#EXTINF:-1 tvg-id="476" tvg-name="EET TV" tvg-country="undefined" tvg-language="" tvg-logo="https://i.imgur.com/f7J37yv.png" group-title="Poovarasan - Entertainment",EET TV
+https://live.streamjo.com/eetlive/eettv.m3u8
+
+#EXTINF:-1 tvg-id="481" tvg-name="IBC Tamil" tvg-country="undefined" tvg-language="" tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-tamil-white.png" group-title="Poovarasan - Entertainment",IBC Tamil
+https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8
+
+#EXTINF:-1 tvg-id="482" tvg-name="Isai Saaral" tvg-country="undefined" tvg-language="" tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/85.png" group-title="Poovarasan - Music",Isai Saaral
+http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
+
+#EXTINF:-1 tvg-id="486" tvg-name="News Plus TV" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG81454.png" group-title="Poovarasan - Religious",News Plus TV
+http://hdserver.7starcloud.com:1935/newsplus/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="487" tvg-name="IBC Tamil Canada" tvg-country="undefined" tvg-language="" tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-canada.png" group-title="Poovarasan - Entertainment",IBC Tamil Canada
+https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8
+
+#EXTINF:-1 tvg-id="494" tvg-name="MK Six" tvg-country="undefined" tvg-language="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/MK_SIX.png" group-title="Poovarasan - Music",MK Six
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+
+#EXTINF:-1 tvg-id="495" tvg-name="Sathiyam TV" tvg-country="undefined" tvg-language="" tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1602589120_1598779936_sathiyamlogo.png" group-title="Poovarasan - News",Sathiyam TV
+http://hdserver.7starcloud.com:1935/sathiyamtv/livestreaming/playlist.m3u8
+
+#EXTINF:-1 tvg-id="498" tvg-name="Makkal TV" tvg-country="undefined" tvg-language="" tvg-logo="http://jenohdtv.gq/wp-content/uploads/2019/11/Makkal-TV.png" group-title="Poovarasan - Entertainment",Makkal TV
+https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/mono.m3u8
+
+#EXTINF:-1 tvg-id="499" tvg-name="MK Tunes" tvg-country="undefined" tvg-language="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/MK_TUNES.png" group-title="Poovarasan - Music",MK Tunes
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+
+#EXTINF:-1 tvg-id="500" tvg-name="Thanthi TV" tvg-country="undefined" tvg-language="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/4123.png" group-title="Poovarasan - News",Thanthi TV
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="503" tvg-name="MK TV" tvg-country="undefined" tvg-language="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/mk_tv_in.png" group-title="Poovarasan - Entertainment",MK TV
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
+
+#EXTINF:-1 tvg-id="504" tvg-name="Murasu TV" tvg-country="undefined" tvg-language="" tvg-logo="http://jenohdtv.gq/wp-content/uploads/2019/11/Murasu-TV.png" group-title="Poovarasan - Music",Murasu TV
+http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/index.m3u8
+
+#EXTINF:-1 tvg-id="507" tvg-name="Aasirvadham TV" tvg-country="undefined" tvg-language="" tvg-logo="http://7startv.in/astv.png" group-title="Poovarasan - Religious",Aasirvadham TV
+http://199.168.96.106:1935/blessingtv-tamillive/mystream/chunklist_w365086533.m3u8
+
+#EXTINF:-1 tvg-id="508" tvg-name="Moon TV" tvg-country="undefined" tvg-language="" tvg-logo="http://www.moontvlive.com/images/logo.png" group-title="Poovarasan - Entertainment",Moon TV
+http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-id="511" tvg-name="Angel TV" tvg-country="undefined" tvg-language="" tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1602588077_1596971809_angelcopy.jpg" group-title="Poovarasan - Religious",Angel TV
+https://wowzaprod270-i.akamaihd.net/hls/live/1007388/e7a2aac8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="516" tvg-name="SD Media" tvg-country="undefined" tvg-language="" tvg-logo="https://i.imgur.com/FigDbPo.png" group-title="Poovarasan - Music",SD Media
+http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="519" tvg-name="TUNE 6" tvg-country="undefined" tvg-language="" tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/3731.Tunes6.in/en/1x1/208x208/test_pic1552387113014.jpg" group-title="Poovarasan - Music",TUNE 6
+https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in.m3u8
+
+#EXTINF:-1 tvg-id="522" tvg-name="VANAVIL" tvg-country="undefined" tvg-language="" tvg-logo="https://vaanavil.live/wp-content/uploads/2019/10/Vaanavil-Logo-GIF.gif" group-title="Poovarasan - Music",VANAVIL
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="526" tvg-name="Madha TV" tvg-country="undefined" tvg-language="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Madha_TV-black.png" group-title="Poovarasan - Religious",Madha TV
+http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w67072347.m3u8
+
+#EXTINF:-1 tvg-id="527" tvg-name="Vasanth TV" tvg-country="undefined" tvg-language="" tvg-logo="http://jenohdtv.gq/wp-content/uploads/2019/11/Vasanth-TV.png" group-title="Poovarasan - Entertainment",Vasanth TV
+http://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f
+
+#EXTINF:-1 tvg-id="529" tvg-name="Nambikkai TV" tvg-country="undefined" tvg-language="" tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1602588047_1596971871_nambikkaicopy.jpg" group-title="Poovarasan - Religious",Nambikkai TV
+http://live.wmncdn.net/nambikkaitv/live.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="530" tvg-name="Velicham" tvg-country="undefined" tvg-language="" tvg-logo="https://i.imgur.com/YeR3mm9.png" group-title="Poovarasan - Entertainment",Velicham
+https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="532" tvg-name="Swasthik TV" tvg-country="undefined" tvg-language="" tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1609588616_swasthiktv.png" group-title="Poovarasan - Religious",Swasthik TV
+http://swasthiktv.chennaistream.net/swasthiktv/swasthiktvlive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="533" tvg-name="VENDHAR TV" tvg-country="undefined" tvg-language="" tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/7077.VendarTV.in/en/1x1/208x208/test_pic1596109828563.jpg" group-title="Poovarasan - Entertainment",VENDHAR TV
+https://m-c06-j2apps.s.llnwi.net/hls/7077.VendarTV.in_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="152" tvg-name="Vasantham TV(Singapore)" tvg-country="undefined" tvg-language="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3f/Vasantham2008.svg/revision/latest/scale-to-width-down/300?cb=20190810160718" group-title="Tamil - Local Channels",Vasantham TV(Singapore)
+https://tglmp03.akamaized.net/out/v1/230bc7050839446b87c86268df536ab6/master.m3u8
+
+#EXTINF:-1 tvg-id="148" tvg-name="Ever Green TV" tvg-country="undefined" tvg-language="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",Ever Green TV
+http://shinestream.in:1935/evergreen/evergreen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="147" tvg-name="Annai TV" tvg-country="undefined" tvg-language="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",Annai TV
+http://annaitv.livebox.co.in/annailivehls/live.m3u8
+
+#EXTINF:-1 tvg-id="146" tvg-name="Tirupur voice  TV" tvg-country="undefined" tvg-language="Tamil" tvg-logo="" group-title="Tamil Local",Tirupur voice  TV
+https://murugan.iptelevision.in/hls/tirupurvoice.m3u8
+
+#EXTINF:-1 tvg-id="140" tvg-name="Sun Music (Tamil)" tvg-country="undefined" tvg-language="Tamil" tvg-logo="" group-title="Tamil Local",Sun Music (Tamil)
+http://uk1.zecast.com:1935/star-live/smusic/chunklist_w2139407510.m3u8
+
+#EXTINF:-1 tvg-id="139" tvg-name="Annai TV" tvg-country="undefined" tvg-language="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",Annai TV
+http://annaitv.livebox.co.in/annailivehls/live.m3u8
+
+#EXTINF:-1 tvg-id="138" tvg-name="Ever Green TV" tvg-country="undefined" tvg-language="" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil Local",Ever Green TV
+http://shinestream.in:1935/evergreen/evergreen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="379" tvg-name="Mullai HD" tvg-country="undefined" tvg-language="" tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/160.png" group-title="Poovarasan - Local",Mullai HD
+http://bmlive.net:8000/Raja/rajacbe/bms.m3u8
+
+#EXTINF:-1 tvg-id="392" tvg-name="Samyuktha HD" tvg-country="undefined" tvg-language="" tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/155.png" group-title="Poovarasan - Local",Samyuktha HD
+http://bmlive.net:8000/samyukthahd/samyukthahd/bms.m3u8
+
+#EXTINF:-1 tvg-id="402" tvg-name="Santhora TV" tvg-country="undefined" tvg-language="" tvg-logo="https://i.imgur.com/LsacUVi.png" group-title="Poovarasan - Local",Santhora TV
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="403" tvg-name="Udhyam TV Nagarcoil" tvg-country="undefined" tvg-language="" tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/153.png" group-title="Poovarasan - Local",Udhyam TV Nagarcoil
+http://bmlive.net:8000/udhayamtv/udhayamtv/bms.m3u8
+
+#EXTINF:-1 tvg-id="413" tvg-name="Santhora TV" tvg-country="undefined" tvg-language="" tvg-logo="https://i.imgur.com/LsacUVi.png" group-title="Poovarasan - Local",Santhora TV
+http://santhoratv.zecast.net/santhoratv/santhoratv/index.m3u8
+
+#EXTINF:-1 tvg-id="414" tvg-name="VIP HD" tvg-country="undefined" tvg-language="" tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/152.png" group-title="Poovarasan - Local",VIP HD
+http://bmlive.net:8000/gtv/gtv/bms.m3u8
+
+#EXTINF:-1 tvg-id="423" tvg-name="Tamil Vision International" tvg-country="undefined" tvg-language="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/rsz_tamil_vision_international1.jpg" group-title="Poovarasan - Local",Tamil Vision International
+http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="424" tvg-name="JCV HD" tvg-country="undefined" tvg-language="" tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/150.png" group-title="Poovarasan - Local",JCV HD
+http://bmlive.net:8000/jcvtv/jcvtv/bms.m3u8
+
+#EXTINF:-1 tvg-id="439" tvg-name="Digital TV" tvg-country="undefined" tvg-language="" tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/145.png" group-title="Poovarasan - Local",Digital TV
+http://bmlive.net:8000/digitaltv/digitaltv/bms.m3u8
+
+#EXTINF:-1 tvg-id="451" tvg-name="SJS TV" tvg-country="undefined" tvg-language="" tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/124.png" group-title="Poovarasan - Local",SJS TV
+http://bmlive.net:8000/sjstv/sjstv/bms.m3u8
+
+#EXTINF:-1 tvg-id="457" tvg-name="Penguin TV" tvg-country="undefined" tvg-language="" tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/111.png" group-title="Poovarasan - Local",Penguin TV
+http://bmlive.net:8000/penguintv/penguintv/bms.m3u8
+
+#EXTINF:-1 tvg-id="463" tvg-name="Vasanth TV" tvg-country="undefined" tvg-language="" tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/109.png" group-title="Poovarasan - Local",Vasanth TV
+http://bmlive.net:8000/vasanthtvngl/vasanthtvngl/bms.m3u8
+
+#EXTINF:-1 tvg-id="469" tvg-name="Selfie TV" tvg-country="undefined" tvg-language="" tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/89.png" group-title="Poovarasan - Local",Selfie TV
+http://bmlive.net:8000/selfeetv/selfeetv/bms.m3u8
+
+#EXTINF:-1 tvg-id="517" tvg-name="HARI TV" tvg-country="undefined" tvg-language="" tvg-logo="http://haritv.com/images/logo.png" group-title="Poovarasan - Local",HARI TV
+http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="539" tvg-name="Vani Plus" tvg-country="undefined" tvg-language="" tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616319770_vaniplus.png" group-title="Poovarasan - Local",Vani Plus
+http://live.singamcloud.in:1935/vanipluse/vanipluse/playlist.m3u8
+
+#EXTINF:-1 tvg-id="541" tvg-name="Anu TV" tvg-country="undefined" tvg-language="" tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616320869_anutv.png" group-title="Poovarasan - Local",Anu TV
+http://live.singamcloud.in:1935/anutv/anutv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="552" tvg-name="PC TV" tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20200909-WA0016.jpg" group-title="Poovarasan - Local",PC TV
+http://pctv.livebox.co.in/pctvhls/live.m3u8
+
+#EXTINF:-1 tvg-id="557" tvg-name="Thirumalai TV" tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/unnamed (9).png" group-title="Poovarasan - Local",Thirumalai TV
+http://media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="559" tvg-name="Nakkubetta Ooty TV" tvg-country="undefined" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTOroe9NNojrhfiBvTW_J-xGyX8BUWJvijXodAcaDX32bt3WrWncmhAOcm2Is9jSFIHJY&usqp=CAU" group-title="Poovarasan - Local",Nakkubetta Ooty TV
+http://nakkubettatv.livebox.co.in/nbtvhls/nbtv.m3u8
+
+#EXTINF:-1 tvg-id="574" tvg-name="Anuman TV" tvg-country="undefined" tvg-language="" tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1602562865_1596280518_AnumanTV.png" group-title="Poovarasan - Local",Anuman TV
+http://media.7starcloud.com:1935/harimedia/anumantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="576" tvg-name="Durais TV" tvg-country="undefined" tvg-language="" tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1617258979_01.png" group-title="Poovarasan - Local",Durais TV
+http://media.7starcloud.com:1935/harimedia/duraistv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="579" tvg-name="KRP TV" tvg-country="undefined" tvg-language="" tvg-logo="1616333373_kprtv.png" group-title="Poovarasan - Local",KRP TV
+http://live.singamcloud.in:1935/krptv/krptv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="582" tvg-name="MSN TV" tvg-country="undefined" tvg-language="" tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616429873_msntv.png" group-title="Poovarasan - Local",MSN TV
+http://media.7starcloud.com:1935/msntv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="585" tvg-name="Bluemoon TV" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG68898.png" group-title="Poovarasan - Local",Bluemoon TV
+http://bmlive.net:8000/bms/bmtv/bms.m3u8
+
+#EXTINF:-1 tvg-id="588" tvg-name="Kalvi Cholai TV" tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20200810-WA0031.jpg" group-title="Poovarasan - Local",Kalvi Cholai TV
+http://nextgeninfotech.ddns.net:8080/kalvisolai/kalvisolai.m3u8
+
+#EXTINF:-1 tvg-id="591" tvg-name="Metro TV" tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/51403794_2375690232670745_1233277456496984064_o.jpg" group-title="Poovarasan - Local",Metro TV
+http://softstreamtv.com:8080/NOTV/METROTV/index.m3u8?token=GTR
+
+#EXTINF:-1 tvg-id="594" tvg-name="Palar TV" tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/Logo Bg_00000.png" group-title="Poovarasan - Local",Palar TV
+http://account13.livebox.co.in/palartvhls/live.m3u8
+
+#EXTINF:-1 tvg-id="596" tvg-name="Tamilan TV" tvg-country="undefined" tvg-language="" tvg-logo="http://nammaoorutv.com/dashboard/upicons/Screenshot_20200908-234711~2.png" group-title="Poovarasan - Local",Tamilan TV
+http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
+
+#EXTINF:-1 tvg-id="598" tvg-name="Sharvesh 7Star TV" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG58756.png" group-title="Poovarasan - Local",Sharvesh 7Star TV
+http://hdserver.7starcloud.com:1935/sharvesh/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="599" tvg-name="CTN TV" tvg-country="undefined" tvg-language="" tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/29.png" group-title="Poovarasan - Local",CTN TV
+http://hdserver.7starcloud.com:1935/ctn/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="600" tvg-name="Polimer Channel" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG5530.png" group-title="Poovarasan - Local",Polimer Channel
+http://hdserver.7starcloud.com:1935/polimer/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="602" tvg-name="Ashoka TV" tvg-country="undefined" tvg-language="" tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/102.png" group-title="Poovarasan - Local",Ashoka TV
+http://hdserver.7starcloud.com:1935/ashoka/channel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="604" tvg-name="CTN(Connor)" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG88913.png" group-title="Poovarasan - Local",CTN(Connor)
+http://bmlive.net:8000/ctn/ctn/bms.m3u8
+
+#EXTINF:-1 tvg-id="606" tvg-name="Prakalya TV" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG11646.png" group-title="Poovarasan - Local",Prakalya TV
+http://7starcloud.com:1935/pragalya/pragalyatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="608" tvg-name="Sri Krishna TV(T.kode)" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG74398.png" group-title="Poovarasan - Local",Sri Krishna TV(T.kode)
+http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="613" tvg-name="Surya TV" tvg-country="undefined" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG93380.png" group-title="Poovarasan - Local",Surya TV
+http://media.7starcloud.com:1935/suryatv/mystream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="634" tvg-name="Jawahar TV" tvg-country="undefined" tvg-language="" tvg-logo="http://jenohdtv.gq/wp-content/uploads/2019/11/Jawahar-Channel.png" group-title="Poovarasan - Local",Jawahar TV
+http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
+
+#EXTINF:-1 tvg-id="640" tvg-name="N TV" tvg-country="undefined" tvg-language="" tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/79.png" group-title="Poovarasan - Local",N TV
+http://7starcloud.com:1935/ntv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="642" tvg-name="Neem TV" tvg-country="undefined" tvg-language="" tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/65.png" group-title="Poovarasan - Local",Neem TV
+http://bmlive.net:8000/NEEMTv/neemlivetv/bms.m3u8
+
+#EXTINF:-1 tvg-id="644" tvg-name="Raagam HD" tvg-country="undefined" tvg-language="" tvg-logo="http://jenohdtv.gq/wp-content/uploads/2019/11/Ragam-TV.png" group-title="Poovarasan - Local",Raagam HD
+http://account12.livebox.co.in/ntvhls/ntv.m3u8
+
+#EXTINF:-1 tvg-id="645" tvg-name="Ram Tv" tvg-country="undefined" tvg-language="" tvg-logo="http://ambitious.in.net/new/cloudTv/uploads/images/channel_IMG2922.png" group-title="Poovarasan - Local",Ram Tv
+http://media.7starcloud.com:1935/harimedia/live5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="648" tvg-name="Samugam TV" tvg-country="undefined" tvg-language="" tvg-logo="http://jenohdtv.gq/wp-content/uploads/2020/09/Samugam-TV.png" group-title="Poovarasan - Local",Samugam TV
+https://ca.streamjo.com/live/samugam.m3u8
+
+#EXTINF:-1 tvg-id="649" tvg-name="Sana TV" tvg-country="undefined" tvg-language="" tvg-logo="https://i.imgur.com/zAQSZeC.png" group-title="Poovarasan - Local",Sana TV
+http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="651" tvg-name="Sirippoli TV" tvg-country="undefined" tvg-language="" tvg-logo="http://jenohdtv.gq/wp-content/uploads/2019/11/Srippoli-TV.png" group-title="Poovarasan - Local",Sirippoli TV
+http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
+
+#EXTINF:-1 tvg-id="653" tvg-name="SRI KRISHNA TV" tvg-country="undefined" tvg-language="" tvg-logo="http://www.erodesrikrishnatv.com/images/logo.png" group-title="Poovarasan - Local",SRI KRISHNA TV
+http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="655" tvg-name="Tirumalai TV KARUR" tvg-country="undefined" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngU3LWhh8SErFHPH0yKtfsCt4cYrq-EbNnGjICWLA=s88-c-k-c0x00ffffff-no-rj" group-title="Poovarasan - Local",Tirumalai TV KARUR
+http://media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="656" tvg-name="Udhayam TV" tvg-country="undefined" tvg-language="" tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1602589537_udhayamcopy.jpg" group-title="Poovarasan - Local",Udhayam TV
+http://media.7starcloud.com:1935/harimedia/live3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="658" tvg-name="Vani TV" tvg-country="undefined" tvg-language="" tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1609652171_vanitv.jpg" group-title="Poovarasan - Local",Vani TV
+http://hdserver.7starcloud.com:1935/vanitv/livemedia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="160" tvg-name="TeT HD" tvg-country="undefined" tvg-language="Tamil International" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Tamil_Entertainment_Television.png" group-title="Entertainment",TeT HD
+https://yuppmslukmo1.akamaized.net/hls/live/2005258/tet/tet/playlist.m3u8?hdnts=st=1616241422~exp=1716241322~acl=*/tet/*~data=TET_Internal_Monitoring~hmac=e0e0453fa1591de262f4beb3fb32ca108486360c9ca7e195e5e87c5c46f9852d
+
+#EXTINF:-1 tvg-id="159" tvg-name="EET TV" tvg-country="undefined" tvg-language="Tamil International" tvg-logo="https://i.imgur.com/f7J37yv.png" group-title="Entertainment",EET TV
+https://eu.streamjo.com/eetlive/eettv.m3u8
+
+#EXTINF:-1 tvg-id="157" tvg-name="Love Nature" tvg-country="undefined" tvg-language="International" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png" group-title="Infotainment",Love Nature
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="156" tvg-name="Mystery Science " tvg-country="undefined" tvg-language="International" tvg-logo="https://mst3k.com/userFiles/uploads/logos/mstlogo.png" group-title="Infotainment",Mystery Science 
+https://mst3k-stirr-us.amagi.tv/playlistR720P.m3u8 
+
+#EXTINF:-1 tvg-id="155" tvg-name="Adventure Sports" tvg-country="undefined" tvg-language="International" tvg-logo="https://image.roku.com/developer_channels/prod/88a440255269e1782103522844732107d34aa120f27dedf0c2339f9e6e2ae72b.png" group-title="Infotainment",Adventure Sports
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
+
+#EXTINF:-1 tvg-id="143" tvg-name="IBC Pagadi" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616431687_IBC PAKADI.png" group-title="Singam Cloud - International",IBC Pagadi
+https://tx1.ibctamil.tv/CDN_IBC_Pakidi/index.m3u8
+
+#EXTINF:-1 tvg-id="147" tvg-name="IBC TAMIL Canada" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616431279_ibc tamil con.png" group-title="Singam Cloud - International",IBC TAMIL Canada
+https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8
+
+#EXTINF:-1 tvg-id="148" tvg-name="IBC TAMIL" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1616430886_IBC TAMIL.png" group-title="Singam Cloud - International",IBC TAMIL
+https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8
+
+#EXTINF:-1 tvg-id="194" tvg-name="KBO TAMIL" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1622898474_IMG_20210605_183550.jpg" group-title="Singam Cloud - International",KBO TAMIL
+https://catchup.yuppcdn.net/amazonv2/20/preview/kbo/master/master.m3u8
+
+#EXTINF:-1 tvg-id="195" tvg-name="KBO classic tamil" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1622898529_IMG_20210605_183607.jpg" group-title="Singam Cloud - International",KBO classic tamil
+https://catchup.yuppcdn.net/amazonv2/20/preview/kboclassic/master/master.m3u8
+
+#EXTINF:-1 tvg-id="227" tvg-name="Vanavil tv" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1622191423_vanavil.png" group-title="Singam Cloud - International",Vanavil tv
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="233" tvg-name="santhora short film" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1622176739_santhorashortfilm.png" group-title="Singam Cloud - International",santhora short film
+http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="234" tvg-name="Santhora tv" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1622176561_santhoratv.png" group-title="Singam Cloud - International",Santhora tv
+http://santhoratv.zecast.net/santhoratv/santhoratv/index.m3u8
+
+#EXTINF:-1 tvg-id="236" tvg-name="TVI HD " tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1622176085_tvi hd.png" group-title="Singam Cloud - International",TVI HD 
+http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
+
+#EXTINF:-1 tvg-id="238" tvg-name="EET TV srilanka" tvg-country="undefined" tvg-language="" tvg-logo="https://singamcloud.com/tv/upload/1622175751_eet tv.png" group-title="Singam Cloud - International",EET TV srilanka
+https://live.streamjo.com/eetlive/eettv.m3u8
+
+#EXTINF:-1 tvg-id="428" tvg-name="Puthuyugam" tvg-country="undefined" tvg-language="" tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616435069_puthugam.png" group-title="Poovarasan - International",Puthuyugam
+http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
+
+#EXTINF:-1 tvg-id="461" tvg-name="DD Podhigai" tvg-country="undefined" tvg-language="" tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616435259_DDpothigai.png" group-title="Poovarasan - International",DD Podhigai
+https://m-c15-j2apps.s.llnwi.net/hls/0250.DDPodhigai.in_360p/index.m3u8
+
+#EXTINF:-1 tvg-id="467" tvg-name="KBO Classic" tvg-country="undefined" tvg-language="" tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622898529_IMG_20210605_183607.jpg" group-title="Poovarasan - International",KBO Classic
+https://catchup.yuppcdn.net/amazonv2/20/preview/kboclassic/master/master.m3u8
+
+#EXTINF:-1 tvg-id="473" tvg-name="KBO Tamil" tvg-country="undefined" tvg-language="" tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622898474_IMG_20210605_183550.jpg" group-title="Poovarasan - International",KBO Tamil
+https://catchup.yuppcdn.net/amazonv2/20/preview/kbo/master/master.m3u8
+
+#EXTINF:-1 tvg-id="478" tvg-name="Tamil Three" tvg-country="undefined" tvg-language="" tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1603524158_1598791651_DD Sportscopy.jpg" group-title="Poovarasan - International",Tamil Three
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="489" tvg-name="WORLD TAMIL TV" tvg-country="undefined" tvg-language="" tvg-logo="http://www.worldtamil.tv/img/logo.png" group-title="Poovarasan - International",WORLD TAMIL TV
+http://185.105.4.244:1935/wtt/wttv/playlist.m3u8
